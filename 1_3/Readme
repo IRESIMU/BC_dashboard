@@ -1,0 +1,11 @@
+Readme
+
+Procedure for Collecting Electric Vehicle Statistics Data in the United Kingdom and updating the folder:
+1.	Access the official website of the UK Government's statistics, https://www.gov.uk/government/collections/vehicles-statistics.
+2.	Navigate to the section dedicated to Latest vehicle licensing statistics and proceed to open "Vehicle licensing statistics: YYYY" link.(Example: https://www.gov.uk/government/statistics/vehicle-licensing-statistics-2022)
+3.	Within the designated page for Vehicle Licensing Statistics for the specified year, proceed to the "Documents" section and initiate the download of the "Vehicle licensing statistics: YYYY data tables" in zip file format.(Example: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1162942/vehicle-licensing-statistics-2022-data-tables.zip)
+5.	From the downloaded files, identify and extract the relevant data from the "veh0171.ods" file, focusing solely on the required information related to electric vehicles.
+6.  Create a copy of "VEH0171b_GenModels" sheet from "VEH0171.ods" file and save it as "VEH0171b_GenModels.CSV" (CSV format).
+
+Re-run the Jupyter notebook to visualize 
+

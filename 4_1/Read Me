@@ -1,0 +1,5 @@
+This Visualization has to be performed Online.
+
+The Dismanteled EV Battery data has to be collected and stored in a CSV file format with the name "DISMANTELED_DATA.CSV". First Column should contain year with column name "YEAR" and second column should contain count of dismanteled EV batteries with column name. "DISMANTELED"
+
+ 

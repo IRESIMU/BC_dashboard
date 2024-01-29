@@ -1,0 +1,257 @@
+vehicle_type,make,model,battery_type,capacity_kwh,body_type
+Buses and coaches,BYD,BYD ENVIRO,Lithium Iron Phosphate,324,Bus
+Buses and coaches,YUTONG,YUTONG E10,Lithium-ion,258,Bus
+Buses and coaches,WRIGHTBUS,WRIGHTBUS STREETDECK,Lithium-ion,288,Bus
+Buses and coaches,YUTONG,YUTONG TC12,Lithium-ion,258,Bus
+Buses and coaches,YUTONG,YUTONG E12,Lithium-ion,314,Bus
+Buses and coaches,WRIGHTBUS,WRIGHTBUS STREETLITE,Lithium-ion,180,Bus
+Buses and coaches,CAETANO,CAETANO CITY,Lithium-ion,316,Bus
+Buses and coaches,FIAT,FIAT DUCATO,Lithium-ion,48,MPV
+Buses and coaches,FORD,FORD TRANSIT,Lithium-ion,70,MPV
+Buses and coaches,MERCEDES,MERCEDES SPRINTER,Lithium-ion,35,MPV
+Buses and coaches,OPTARE,OPTARE METRODECKER,Lithium Titanate,75,Bus
+Buses and coaches,OPTARE,OPTARE SOLO,Lithium-ion,72,Bus
+Buses and coaches,OPTARE,OPTARE VERSA,Lithium-ion,72,Bus
+Buses and coaches,WRIGHTBUS,WRIGHTBUS ELECTROCITY,Lithium-ion,180,Bus
+Buses and coaches,YUTONG,YUTONG TC9,Lithium-ion,230,Bus
+Cars,TESLA,TESLA MODEL Y,Lithium-ion,75,SUV
+Cars,TESLA,TESLA MODEL 3,Lithium-ion,53,Sedan
+Cars,FORD,FORD KUGA,Lithium-ion,14.5,SUV
+Cars,NISSAN,NISSAN LEAF,Lithium-ion,43,Hatchback
+Cars,BMW,BMW I4,Lithium-ion,80.7,Sedan
+Cars,POLESTAR,POLESTAR 2,Lithium-ion,78,Sedan
+Cars,VOLKSWAGEN,VOLKSWAGEN ID3,Lithium-ion,46,Hatchback
+Cars,AUDI,AUDI Q4,Lithium-ion,53,SUV
+Cars,MINI,MINI COOPER,Lithium-ion,28.9,Hatchback
+Cars,MG,MG 4,Lithium-ion,44.5,Hatchback
+Cars,RENAULT,RENAULT ZOE,Lithium-ion,53,Hatchback
+Cars,BMW,BMW IX,Lithium-ion,100,SUV
+Cars,VOLKSWAGEN,VOLKSWAGEN ID4,Lithium-ion,54,SUV
+Cars,SKODA,SKODA ENYAQ,Lithium-ion,65,SUV
+Cars,MG,MG ZS,Lithium-ion,44.5,SUV
+Cars,BMW,BMW IX3,Lithium-ion,74,SUV
+Cars,CUPRA,CUPRA BORN,Lithium-ion,46,Hatchback
+Cars,VAUXHALL,VAUXHALL MOKKA,Lithium-ion,51,SUV
+Cars,VOLKSWAGEN,VOLKSWAGEN ID5,Lithium-ion,58,SUV
+Cars,PORSCHE,PORSCHE TAYCAN,Lithium-ion,79.2,Sedan
+Cars,BMW,BMW 3 SERIES,Lithium-ion,43,Sedan
+Cars,AUDI,AUDI E-TRON,Lithium-ion,73,SUV
+Cars,KIA,KIA NIRO,Lithium-ion,41,SUV
+Cars,HYUNDAI,HYUNDAI IONIQ,Lithium-ion,34,Hatchback
+Cars,MG,MG 5,Lithium-ion,61.1,Hatchback
+Cars,VOLVO,VOLVO XC40,Lithium-ion,79,SUV
+Cars,MERCEDES,MERCEDES EQC CLASS,Lithium-ion,80,SUV
+Cars,PEUGEOT,PEUGEOT 2008,Lithium-ion,51,SUV
+Cars,HYUNDAI,HYUNDAI KONA,Lithium-ion,39.2,SUV
+Cars,VOLKSWAGEN,VOLKSWAGEN GOLF,Lithium-ion,35.8,Hatchback
+Cars,MERCEDES,MERCEDES EQA CLASS,Lithium-ion,66.5,SUV
+Cars,RENAULT,RENAULT MEGANE,Lithium-ion,60,Hatchback
+Cars,BMW,BMW 5 SERIES,Lithium-ion,71,Sedan
+Cars,VOLVO,VOLVO C40,Lithium-ion,78,SUV
+Cars,VAUXHALL,VAUXHALL CORSA,Lithium-ion,50,Hatchback
+Cars,FORD,FORD MUSTANG MACH-E,Lithium-ion,68,SUV
+Cars,LAND ROVER,LAND ROVER RANGE ROVER EVOQUE,Lithium-ion,20,SUV
+Cars,NISSAN,NISSAN ARIYA,Lithium-ion,63,SUV
+Cars,PEUGEOT,PEUGEOT 208,Lithium-ion,50,Hatchback
+Cars,HYUNDAI,HYUNDAI TUCSON,Lithium-ion,64,SUV
+Cars,MERCEDES,MERCEDES CLA CLASS,Lithium-ion,66.5,Sedan
+Cars,KIA,KIA EV6,Lithium-ion,58,SUV
+Cars,AUDI,AUDI A3,Lithium-ion,58,Sedan
+Cars,MERCEDES,MERCEDES EQB CLASS,Lithium-ion,66.5,SUV
+Cars,VOLVO,VOLVO XC60,Lithium-ion,78,SUV
+Cars,JAGUAR,JAGUAR I-PACE,Lithium-ion,90,SUV
+Cars,TOYOTA,TOYOTA RAV4,Lithium-ion,40.4,SUV
+Cars,LEXUS,LEXUS NX 450,Lithium-ion,74.6,SUV
+Cars,MINI,MINI COUNTRYMAN,Lithium-ion,29.7,SUV
+Cars,BMW,BMW X5,Lithium-ion,25,SUV
+Cars,FIAT,FIAT 500,Lithium-ion,42,Hatchback
+Cars,VOLKSWAGEN,VOLKSWAGEN UP,Lithium-ion,16.8,Hatchback
+Cars,MG,MG HS,Lithium-ion,44.5,SUV
+Cars,LAND ROVER,LAND ROVER DISCOVERY,Lithium-ion,90,SUV
+Cars,BMW,BMW X3,Lithium-ion,80,SUV
+Cars,AUDI,AUDI Q3,Lithium-ion,51.5,SUV
+Cars,VOLKSWAGEN,VOLKSWAGEN TIGUAN,Lithium-ion,77,SUV
+Cars,BMW,BMW I3,Lithium-ion,42.2,Hatchback
+Cars,CITROEN,CITROEN C4,Lithium-ion,50,Hatchback
+Cars,GENESIS,GENESIS GV60,Lithium-ion,77.4,SUV
+Cars,VOLVO,VOLVO XC90,Lithium-ion,78,SUV
+Cars,LAND ROVER,LAND ROVER DEFENDER,Lithium-ion,20,SUV
+Cars,VOLKSWAGEN,VOLKSWAGEN PASSAT,Lithium-ion,13,Sedan
+Cars,JEEP,JEEP COMPASS,Lithium-ion,11.4,SUV
+Cars,CITROEN,CITROEN C5,Lithium-ion,50,Sedan
+Cars,TOYOTA,TOYOTA BZ4X,Lithium-ion,71,SUV
+Cars,AUDI,AUDI Q5,Lithium-ion,14.1,SUV
+Cars,VOLVO,VOLVO V60,Lithium-ion,11.6,Wagon
+Cars,KIA,KIA SPORTAGE,Lithium-ion,77.4,SUV
+Cars,BMW,BMW X2,Lithium-ion,62,SUV
+Cars,PEUGEOT,PEUGEOT 3008,Lithium-ion,50,SUV
+Cars,BMW,BMW 2 SERIES,Lithium-ion,10,Coupe
+Cars,KIA,KIA XCEED,Lithium-ion,44.5,SUV
+Cars,CITROEN,CITROEN BERLINGO,Lithium-ion,50,MPV
+Cars,MERCEDES,MERCEDES EQE CLASS,Lithium-ion,90,Sedan
+Cars,MAZDA,MAZDA MX-30,Lithium-ion,35.5,SUV
+Cars,SMART,SMART FORTWO,Lithium-ion,17.6,Hatchback
+Cars,PEUGEOT,PEUGEOT 308,Lithium-ion,50,Hatchback
+Cars,MERCEDES,MERCEDES EQS CLASS,Lithium-ion,90,Sedan
+Cars,PORSCHE,PORSCHE CAYENNE,Lithium-ion,14.1,SUV
+Cars,MERCEDES,MERCEDES GLA CLASS,Lithium-ion,66.5,SUV
+Cars,DS,DS DS4,Lithium-ion,50,Sedan
+Cars,VAUXHALL,VAUXHALL ASTRA,Lithium-ion,12,Hatchback
+Cars,RENAULT,RENAULT CAPTUR,Lithium-ion,9.8,SUV
+Cars,DS,DS DS7,Lithium-ion,13.2,SUV
+Cars,JAGUAR,JAGUAR E-PACE,Lithium-ion,90,SUV
+Cars,LEXUS,LEXUS UX 300,Lithium-ion,54.3,SUV
+Cars,VAUXHALL,VAUXHALL VIVARO,Lithium-ion,50,Van
+Cars,AUDI,AUDI A6,Lithium-ion,14.5,Sedan
+Cars,TOYOTA,TOYOTA PRIUS,Nickel-metal hydride (NiMH),1.3,Sedan
+Cars,MERCEDES,MERCEDES GLE CLASS,Lithium-ion,80,SUV
+Cars,VAUXHALL,VAUXHALL GRANDLAND,Lithium-ion,13.2,SUV
+Cars,BMW,BMW 7 SERIES,Lithium-ion,12,Sedan
+Cars,PORSCHE,PORSCHE PANAMERA,Lithium-ion,17.9,Sedan
+Cars,VAUXHALL,VAUXHALL COMBO,Lithium-ion,50,Van
+Cars,SUZUKI,SUZUKI ACROSS,Lithium-ion,18.1,SUV
+Cars,KIA,KIA SORENTO,Lithium-ion,13.8,SUV
+Cars,PEUGEOT,PEUGEOT 508,Lithium-ion,11.8,Sedan
+Cars,HYUNDAI,HYUNDAI SANTA FE,Lithium-ion,13.8,SUV
+Cars,JAGUAR,JAGUAR F-PACE,Lithium-ion,90,SUV
+Cars,VOLKSWAGEN,VOLKSWAGEN ARTEON,Lithium-ion,13,Sedan
+Cars,BMW,BMW X1,Lithium-ion,10,SUV
+Cars,MERCEDES,MERCEDES VITO,Lithium-ion,42,Van
+Cars,VOLVO,VOLVO V90,Lithium-ion,12,Wagon
+Cars,SKODA,SKODA OCTAVIA,Lithium-ion,59,Sedan
+Cars,SKODA,SKODA SUPERB,Lithium-ion,14,Sedan
+Cars,VOLVO,VOLVO S90,Lithium-ion,11,Sedan
+Cars,JEEP,JEEP RENEGADE,Lithium-ion,11.9,SUV
+Cars,GENESIS,GENESIS GV70,Lithium-ion,58,SUV
+Cars,MERCEDES,MERCEDES AMG CLASS,Lithium-ion,6.2,Sedan
+Cars,PEUGEOT,PEUGEOT RIFTER,Lithium-ion,22.5,MPV
+Cars,HONDA,HONDA E,Lithium-ion,35.5,Hatchback
+Cars,SSANGYONG,SSANGYONG KORANDO,Lithium-ion,52.5,SUV
+Cars,VOLVO,VOLVO S60,Lithium-ion,10.5,Sedan
+Cars,CITROEN,CITROEN SPACETOURER,Lithium-ion,50,MPV
+Cars,MERCEDES,MERCEDES EQV CLASS,Lithium-ion,90,MPV
+Cars,AUDI,AUDI A8,Lithium-ion,14.2,Sedan
+Cars,GENESIS,GENESIS G80,Lithium-ion,77.4,Sedan
+Cars,PEUGEOT,PEUGEOT TRAVELLER,Lithium-ion,50,MPV
+Cars,TESLA,TESLA MODEL S,Lithium-ion,75,Sedan
+Cars,KIA,KIA SOUL,Lithium-ion,64,Hatchback
+Cars,FORD,FORD TOURNEO,Lithium-ion,50,MPV
+Cars,TESLA,TESLA MODEL X,Lithium-ion,75,SUV
+Cars,AUDI,AUDI A7,Lithium-ion,14.2,Sedan
+Cars,MERCEDES,MERCEDES E CLASS,Lithium-ion,14,Sedan
+Cars,RENAULT,RENAULT TWIZY,Lithium-ion,6.1,Compact EV
+Cars,SEAT,SEAT LEON,Lithium-ion,37.5,Hatchback
+Cars,VOLKSWAGEN,VOLKSWAGEN TOUAREG,Lithium-ion,14.3,SUV
+Cars,AUDI,AUDI Q7,Lithium-ion,17.5,SUV
+Cars,AUDI,AUDI Q8,Lithium-ion,17.9,SUV
+Cars,BMW,BMW I8,Lithium-ion,11.6,Sports Car
+Cars,BMW,BMW M5,Lithium-ion,14,Sedan
+Cars,CHEVROLET,CHEVROLET VOLT,Lithium-ion,18.4,Hatchback
+Cars,CITROEN,CITROEN C-ZERO,Lithium-ion,14.5,Hatchback
+Cars,CUPRA,CUPRA FORMENTOR,Lithium-ion,8,SUV
+Cars,CUPRA,CUPRA LEON,Lithium-ion,3,Hatchback
+Cars,DS,DS DS9,Lithium-ion,12,Sedan
+Cars,FORD,FORD FOCUS,Lithium-ion,23,Hatchback
+Cars,FORD,FORD TRANSIT CUSTOM,Lithium-ion,68,Van
+Cars,HYUNDAI,HYUNDAI IX35,Lithium-ion,24,SUV
+Cars,KIA,KIA OPTIMA,Lithium-ion,12,Sedan
+Cars,LEVC,LEVC TX,Lithium-ion,31,Sedan
+Cars,MERCEDES,MERCEDES B CLASS,Lithium-ion,28,Hatchback
+Cars,MIA,MIA C,Lithium-polymer,12,Hatchback
+Cars,MITSUBISHI,MITSUBISHI I-MIEV,Lithium-ion,16,Hatchback
+Cars,MITSUBISHI,MITSUBISHI OUTLANDER,Lithium-ion,12,SUV
+Cars,NISSAN,NISSAN NV200,Lithium-ion,40,Van
+Cars,PEUGEOT,PEUGEOT 307,Lead-acid,22.5,Hatchback
+Cars,PEUGEOT,PEUGEOT EXPERT,Lithium-ion,50,Van
+Cars,PEUGEOT,PEUGEOT ION,Lithium-ion,16,Hatchback
+Cars,PEUGEOT,PEUGEOT PARTNER,Lithium-ion,50,Van
+Cars,PORSCHE,PORSCHE 918,Lithium-ion,6.8,Sports Car
+Cars,RENAULT,RENAULT FLUENCE,Lithium-ion,22,Sedan
+Cars,REVA,REVA G-WIZ,Lead-acid,13,Hatchback
+Cars,SEAT,SEAT MII,Lithium-ion,36.8,Hatchback
+Cars,SKODA,SKODA CITIGO,Lithium-ion,36.8,Hatchback
+Cars,TESLA,TESLA ROADSTER,Lithium-ion,53,Sports Car
+Cars,VAUXHALL,VAUXHALL AMPERA,Lithium-ion,16.6,Hatchback
+Cars,VOLKSWAGEN,VOLKSWAGEN XL1,Lithium-ion,5.5,Coupe
+Heavy goods vehicles,MAXUS,MAXUS DELIVER,Lithium-ion,52,Van
+Heavy goods vehicles,MITSUBISHI FUSO,MITSUBISHI FUSO CANTER,Lithium-ion,70,Truck
+Light goods vehicles,TOYOTA,TOYOTA PROACE,Lithium-ion,50,Van
+Light goods vehicles,CITROEN,CITROEN DISPATCH,Lithium-ion,50,Van
+Light goods vehicles,FIAT,FIAT SCUDO,Lithium-ion,50,Van
+Light goods vehicles,LEVC,LEVC VN5,Lithium-ion,31,Van
+Light goods vehicles,DFSK,DFSK EC35,Lithium-ion,50,Van
+Light goods vehicles,ALKE,ALKE ATX,Lead-acid,14,Van
+Light goods vehicles,CITROEN,CITROEN RELAY,Lithium-ion,38,Van
+Light goods vehicles,RENAULT,RENAULT KANGOO,Lithium-ion,34,Van
+Motorcycles,YADEA,YADEA G5,Lithium-ion,2.5,Motorcycle
+Motorcycles,VMOTO,VMOTO CUX,Lithium-ion,1.5,Motorcycle
+Motorcycles,HORWIN,HORWIN EK1,Lithium-ion,1.92,Motorcycle
+Motorcycles,ASKOLL,ASKOLL ESPRO,Lithium-ion,2.7,Motorcycle
+Motorcycles,NIU,NIU M SERIES,Lithium-ion,2.3,Motorcycle
+Motorcycles,E-MAX,E-MAX LB1,Lithium-ion,3.5,Motorcycle
+Motorcycles,KEEWAY,KEEWAY E-ZI,Lithium-ion,1.8,Motorcycle
+Motorcycles,YAMAHA,YAMAHA NEO'S,Lithium-ion,0.54,Motorcycle
+Motorcycles,ZERO,ZERO DSR ZF,Lithium-ion,14.4,Motorcycle
+Motorcycles,YADEA,YADEA S-LIKE,Lithium-ion,2,Motorcycle
+Motorcycles,HORWIN,HORWIN CR6,Lithium-ion,3.24,Motorcycle
+Motorcycles,ELECTRIC MOTION,ELECTRIC MOTION EPURE,Lithium-ion,3.9,Motorcycle
+Motorcycles,VMOTO,VMOTO TS1,Lithium-ion,2.4,Motorcycle
+Motorcycles,SILENCE,SILENCE S SERIES,Lithium-ion,5.6,Motorcycle
+Motorcycles,ARTISAN,ARTISAN EV 2000,Lithium-ion,40,Motorcycle
+Motorcycles,NIU,NIU MGT,Lithium-ion,3.12,Motorcycle
+Motorcycles,BMW,BMW CE,Lithium-ion,3.2,Motorcycle
+Motorcycles,HORWIN,HORWIN EK3,Lithium-ion,4.32,Motorcycle
+Motorcycles,VMOTO,VMOTO TC1,Lithium-ion,2.88,Motorcycle
+Motorcycles,ZERO,ZERO FX ZF,Lithium-ion,4,Motorcycle
+Motorcycles,SUR-RON,SUR-RON STORM BEE,Lithium-ion,2.6,Motorcycle
+Motorcycles,SUNRA,SUNRA ROBO,Lithium-ion,1.56,Motorcycle
+Motorcycles,VOGE,VOGE ER10,Lithium-ion,4.2,Motorcycle
+Motorcycles,ELECTRIC MOTION,ELECTRIC MOTION ESCAPE,Lithium-ion,6,Motorcycle
+Motorcycles,LEXMOTO,LEXMOTO LX,Lithium-ion,2,Motorcycle
+Motorcycles,UBCO,UBCO 2X2,Lithium-ion,2.1,Motorcycle
+Motorcycles,VMOTO,VMOTO CUM,Lithium-ion,1.56,Motorcycle
+Motorcycles,ZERO,ZERO SRF ZF,Lithium-ion,14.4,Motorcycle
+Motorcycles,DAYI MOTOR,DAYI MOTOR E-ODIN,Lithium-ion,5,Motorcycle
+Motorcycles,HARLEY-DAVIDSON,HARLEY-DAVIDSON ELW,Lithium-ion,15.5,Motorcycle
+Motorcycles,NIU,NIU U SERIES,Lithium-ion,2.4,Motorcycle
+Motorcycles,PIAGGIO,PIAGGIO VESPA,Lithium-ion,3,Motorcycle
+Motorcycles,ZERO,ZERO FXS ZF,Lithium-ion,7.2,Motorcycle
+Motorcycles,ZERO,ZERO S ZF,Lithium-ion,7.5,Motorcycle
+Motorcycles,ARTISAN,ARTISAN ES1-PRO,Lithium-ion,8,Motorcycle
+Motorcycles,E-MAX,E-MAX VSA,Lithium-ion,1.8,Motorcycle
+Motorcycles,LVNENG,LVNENG LX,Lithium-ion,2.5,Motorcycle
+Motorcycles,MGB,MGB E4,Lithium-ion,4,Motorcycle
+Motorcycles,MGB,MGB G1,Lithium-ion,3,Motorcycle
+Motorcycles,SUNRA,SUNRA MIKU,Lithium-ion,0.6,Motorcycle
+Motorcycles,ARTISAN,ARTISAN EVO,Lithium-ion,17,Motorcycle
+Motorcycles,COOPOP,COOPOP Q1,Lithium-ion,2,Motorcycle
+Motorcycles,LEXMOTO,LEXMOTO CYPHER,Lithium-ion,2.88,Motorcycle
+Motorcycles,LEXMOTO,LEXMOTO ZS,Lithium-ion,2.9,Motorcycle
+Motorcycles,NIU,NIU N SERIES,Lithium-ion,2.4,Motorcycle
+Motorcycles,SAKURA,SAKURA JS2A,Lithium-ion,2.3,Motorcycle
+Motorcycles,TORROT,TORROT MUVI,Lithium-ion,1.8,Motorcycle
+Motorcycles,TROMOX,TROMOX MINO,Lithium-ion,3.2,Motorcycle
+Motorcycles,ZERO,ZERO DS ZF,Lithium-ion,7.2,Motorcycle
+Motorcycles,ARTISAN,ARTISAN EV 1200,Lithium-ion,4.8,Motorcycle
+Motorcycles,ARTISAN,ARTISAN JS,Lithium-ion,19.2,Motorcycle
+Motorcycles,BILIS,BILIS LX04,Lithium-ion,2.56,Motorcycle
+Motorcycles,BMW,BMW C EVOLUTION,Lithium-ion,12.7,Motorcycle
+Motorcycles,ECOOTER,ECOOTER E1,Lithium-ion,1.9,Motorcycle
+Motorcycles,EFUN,EFUN TIGER,Lithium-ion,3.2,Motorcycle
+Motorcycles,ENERGICA,ENERGICA EVA,Lithium-ion,21.5,Motorcycle
+Motorcycles,ERIDER,ERIDER B2000,Lithium-ion,2.4,Motorcycle
+Motorcycles,ERIDER,ERIDER B3000,Lithium-ion,3.6,Motorcycle
+Motorcycles,ERIDER,ERIDER T4000,Lithium-ion,4.8,Motorcycle
+Motorcycles,LIFAN,LIFAN LF 1200,Lithium-ion,1.9,Motorcycle
+Motorcycles,LVNENG,LVNENG LN,Lithium-ion,1.6,Motorcycle
+Motorcycles,NIU,NIU NGT,Lithium-ion,2.7,Motorcycle
+Motorcycles,SAITING,SAITING ST,Lithium-ion,2.8,Motorcycle
+Motorcycles,SCUTUM,SCUTUM S,Lithium-ion,4.9,Motorcycle
+Motorcycles,VECTRIX,VECTRIX MAXI SCOOTER,Lithium-ion,13,Motorcycle
+Motorcycles,VMOTO,VMOTO SOCO TS,Lithium-ion,1.8,Motorcycle
+Motorcycles,VMOTO,VMOTO VT 120,Lead-acid,0.7,Motorcycle
+Motorcycles,WK BIKES,WK BIKES E-COLT,Lithium-ion,2.4,Motorcycle
+Motorcycles,YAMAHA,YAMAHA ED,Lithium-ion,0.5,Motorcycle
+Motorcycles,YINHUA,YINHUA TDR,Lead-acid,0.72,Motorcycle
+Motorcycles,ZERO,ZERO SR ZF,Lithium-ion,14.4,Motorcycle
+Motorcycles,ZERO,ZERO SRS ZF,Lithium-ion,14.4,Motorcycle

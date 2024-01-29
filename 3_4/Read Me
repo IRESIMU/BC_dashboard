@@ -1,0 +1,12 @@
+This Visualization has to be performed offline.
+
+The following procedure is to download the latest test results file from https://www.data.gov.uk/.
+1. Go to UK Government data website using the link "https://www.data.gov.uk/".
+2. In the search box, search for "Anonymised MOT tests and results" and click on search button.
+3. From the search results find and open the link with the heading "Anonymised MOT tests and results"(Example: https://www.data.gov.uk/dataset/e3939ef8-30c7-4ca8-9c7c-ad9475cc9b2f/anonymised-mot-tests-and-results).
+4. Now navigate to the "Data Links" section and click on the file link "MOT testing data results (YYYY)"(Example: MOT testing data results (2022)) to download the zip file.
+5. Extract the downloaded zip folder.
+
+Before running the code, Manually replace the file path mentioned in the code (csv_url) 
+
+ 

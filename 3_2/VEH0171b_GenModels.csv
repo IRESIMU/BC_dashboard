@@ -1,0 +1,694 @@
+"Ultra low emission vehicles (ULEVs) [note 1] registered for the first time [note 5] by body type [note 2], make, generic model and fuel type, Great Britain and United Kingdom from 2010 Q1 (January to March)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Table VEH0171b,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+This worksheet contains one table. Some cells refer to notes which can be found on the notes worksheet. ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Some shorthand is used in this table, [c] = confidential.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Geography [note 3],Units,BodyType [note 2],Make [note 6],Generic model [note 6],Fuel,2022 Q4,2022 Q3,2022 Q2,2022 Q1,2021 Q4,2021 Q3,2021 Q2,2021 Q1,2020 Q4,2020 Q3,2020 Q2,2020 Q1,2019 Q4,2019 Q3,2019 Q2,2019 Q1,2018 Q4,2018 Q3,2018 Q2,2018 Q1,2017 Q4,2017 Q3,2017 Q2,2017 Q1,2016 Q4,2016 Q3,2016 Q2,2016 Q1,2015 Q4,2015 Q3,2015 Q2,2015 Q1,2014 Q4,2014 Q3,2014 Q2,2014 Q1,2013 Q4,2013 Q3,2013 Q2,2013 Q1,2012 Q4,2012 Q3,2012 Q2,2012 Q1,2011 Q4,2011 Q3,2011 Q2,2011 Q1,2010 Q4,2010 Q3,2010 Q2,2010 Q1
+United Kingdom,Number,Buses and coaches,BYD,BYD ENVIRO,Battery electric,170,63,32,188,198,67,29,55,27,7,28,128,13,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Buses and coaches,YUTONG,YUTONG E10,Battery electric,31,0,9,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Buses and coaches,WRIGHTBUS,WRIGHTBUS STREETDECK,Battery electric,19,11,46,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Buses and coaches,YUTONG,YUTONG TC12,Battery electric,7,4,7,0,2,1,1,0,0,16,0,0,1,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Buses and coaches,OTHER BRITISH,OTHER BRITISH MODEL MISSING,Battery electric,6,5,0,1,1,0,2,0,5,2,0,0,0,11,17,1,10,28,28,9,16,9,1,0,28,25,2,3,1,0,1,0,0,0,0,0,2,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0
+United Kingdom,Number,Buses and coaches,YUTONG,YUTONG E12,Battery electric,2,9,5,14,56,26,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Buses and coaches,MERCEDES,MERCEDES MODEL MISSING,Battery electric,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Buses and coaches,OPTARE,OPTARE MODEL MISSING,Battery electric,1,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Buses and coaches,WRIGHTBUS,WRIGHTBUS STREETLITE,Battery electric,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Buses and coaches,ALEXANDER DENNIS,ALEXANDER DENNIS MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Buses and coaches,ARRIVAL,ARRIVAL BUS,Battery electric,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Buses and coaches,CAETANO,CAETANO CITY,Battery electric,0,0,0,0,0,0,0,0,0,0,10,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Buses and coaches,CAETANO,CAETANO CITY,Fuel cell electric,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Buses and coaches,EAGLE,EAGLE EG,Battery electric,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Buses and coaches,FIAT,FIAT DUCATO,Battery electric,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Buses and coaches,FIAT,FIAT MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Buses and coaches,FORD,FORD MODEL MISSING,Battery electric,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Buses and coaches,FORD,FORD TRANSIT,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Buses and coaches,HIGER,HIGER STEED,Battery electric,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Buses and coaches,IRIZAR,IRIZAR I2,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Buses and coaches,JOHN DEERE,JOHN DEERE TE400 SERIES,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Buses and coaches,MERCEDES,MERCEDES SPRINTER,Battery electric,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Buses and coaches,MITSUBISHI,MITSUBISHI MELLOR,Battery electric,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Buses and coaches,OPTARE,OPTARE METROCITY,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Buses and coaches,OPTARE,OPTARE METRODECKER,Battery electric,0,0,0,0,0,5,20,8,15,12,0,4,14,12,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Buses and coaches,OPTARE,OPTARE SOLO,Battery electric,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,5,17,0,2,10,0,2,0,0,1,6,2,1,0,0,0,0,2,1,0,0
+United Kingdom,Number,Buses and coaches,OPTARE,OPTARE VERSA,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,6,0,0,3,3,0,10,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Buses and coaches,PEUGEOT,PEUGEOT MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+United Kingdom,Number,Buses and coaches,SWITCH,SWITCH METROCITY,Battery electric,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Buses and coaches,VAN HOOL,VAN HOOL MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Buses and coaches,VAN HOOL,VAN HOOL MODEL MISSING,Fuel cell electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Buses and coaches,VDL,VDL MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+United Kingdom,Number,Buses and coaches,VOLKSWAGEN,VOLKSWAGEN TRANSPORTER,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Buses and coaches,VOLVO,VOLVO MODEL MISSING,Battery electric,0,0,0,0,0,0,6,0,0,0,0,0,6,0,0,0,4,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Buses and coaches,WRIGHTBUS,WRIGHTBUS ELECTROCITY,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Buses and coaches,WRIGHTBUS,WRIGHTBUS MODEL MISSING,Battery electric,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Buses and coaches,WRIGHTBUS,WRIGHTBUS STREETDECK,Fuel cell electric,0,0,0,10,10,27,2,19,15,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Buses and coaches,YUTONG,YUTONG TC9,Battery electric,0,0,0,0,0,0,0,0,18,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,TESLA,TESLA MODEL Y,Battery electric,"14,897","8,644","4,234","7,779",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,TESLA,TESLA MODEL 3,Battery electric,"7,513","2,284","1,489","7,797","12,707","7,379","7,536","7,164","6,967","5,988","4,029","5,365","5,122","5,350",177,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,FORD,FORD KUGA,Plug-in hybrid electric (petrol),"4,243","2,074","1,531","2,240","1,086","1,841","2,440",772,41,"1,678",669,245,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,NISSAN,NISSAN LEAF,Battery electric,"3,911","2,415","1,399","1,482","2,904","1,609","2,263","2,293","2,614","2,187",773,"2,659","1,683","1,383",760,"1,454",939,961,"1,500","2,015",369,"1,431","1,385","2,482",936,"1,394",762,"1,573",954,"1,322","1,259","1,705","1,081","1,213",865,892,371,611,534,298,283,73,138,201,57,241,201,141,0,0,0,0
+United Kingdom,Number,Cars,BMW,BMW I4,Battery electric,"3,778","1,274","1,210",432,94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,POLESTAR,POLESTAR 2,Battery electric,"3,420","1,095","1,391","1,434","1,668",784,720,922,599,249,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,VOLKSWAGEN,VOLKSWAGEN ID3,Battery electric,"2,980","2,160","2,006","2,679","2,597","3,978","3,631",778,"4,179",657,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,AUDI,AUDI Q4,Battery electric,"2,862","1,241",766,"1,725","2,435","1,171",252,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MINI,MINI COOPER,Battery electric,"2,504","1,900","1,514","1,372","3,203","1,005","1,351","1,020","1,427","1,273",241,409,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MG,MG 4,Battery electric,"2,470",521,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,RENAULT,RENAULT ZOE,Battery electric,"2,274","1,395",993,"1,088","1,506","1,782","1,836",626,"1,886","3,072","1,136",266,216,646,773,745,696,454,402,429,220,326,285,343,279,413,459,609,939,348,464,302,559,234,114,108,128,107,131,10,1,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,BMW,BMW IX,Battery electric,"2,174","1,183","1,161",869,380,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,VOLKSWAGEN,VOLKSWAGEN ID4,Battery electric,"2,156","1,092",879,"1,433","1,529","1,364","1,112",480,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,SKODA,SKODA ENYAQ,Battery electric,"2,155","1,500",799,"1,075","1,541","1,321",389,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MG,MG ZS,Battery electric,"2,115","1,879","1,642",945,"1,448","1,390","1,350","1,191","1,562","1,800",431,"1,795",591,66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,BMW,BMW IX3,Battery electric,"2,070","1,787","1,053","1,562","2,208",864,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,CUPRA,CUPRA BORN,Battery electric,"2,017","1,821",702,104,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,VAUXHALL,VAUXHALL MOKKA,Battery electric,"1,979","1,552","1,209","1,574","1,113",837,468,250,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,VOLKSWAGEN,VOLKSWAGEN ID5,Battery electric,"1,974",689,162,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,PORSCHE,PORSCHE TAYCAN,Battery electric,"1,964",531,"1,128","1,435","1,653",554,915,896,"1,956",907,216,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,BMW,BMW 3 SERIES,Plug-in hybrid electric (petrol),"1,857","1,250","1,624","2,070","1,607","3,055","2,943","3,382","3,581","2,812",684,"2,331","3,503",988,1,1,0,"1,629","1,751","1,236","1,722","1,472","1,208","1,469",934,"1,091","1,143",342,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,AUDI,AUDI E-TRON,Battery electric,"1,855","1,590","2,078","1,265","2,010","2,212","2,177","1,505","2,295","2,309",569,726,364,333,352,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,KIA,KIA NIRO,Battery electric,"1,828","2,469","3,043","3,849","3,272","3,228","2,500","3,268","2,287","2,988",737,523,73,169,234,205,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,HYUNDAI,HYUNDAI IONIQ,Battery electric,"1,695","2,164","2,503","1,768","1,733","2,187",546,935,698,"1,195",408,434,89,172,66,146,136,136,84,87,66,25,116,43,62,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MG,MG 5,Battery electric,"1,546","2,030","1,402","1,955","1,498","1,849",852,874,273,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,VOLVO,VOLVO XC40,Battery electric,"1,466",418,271,478,856,367,421,154,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,VOLVO,VOLVO XC40,Plug-in hybrid electric (petrol),"1,463","1,085","1,096","2,072","1,712","1,312","1,848","1,473","1,452","1,576",234,287,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MERCEDES,MERCEDES EQC CLASS,Battery electric,"1,408","1,253",625,"2,181","1,215",856,"1,120","1,059","2,094",761,121,122,103,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,PEUGEOT,PEUGEOT 2008,Battery electric,"1,366","1,256",946,"1,201","1,320","1,103","1,179","1,155","1,038",505,257,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,HYUNDAI,HYUNDAI KONA,Battery electric,"1,352","1,677","1,311","1,959","2,132","1,519","2,452","1,094","1,207","2,471",284,286,208,185,238,232,140,82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,VOLKSWAGEN,VOLKSWAGEN GOLF,Plug-in hybrid electric (petrol),"1,270",541,163,203,376,356,741,209,476,571,86,308,6,0,0,0,12,"1,210","1,464",648,"1,149",852,300,108,172,407,691,623,347,687,346,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MERCEDES,MERCEDES EQA CLASS,Battery electric,"1,255",884,952,"1,603","2,055","2,058",802,194,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,RENAULT,RENAULT MEGANE,Battery electric,"1,180",50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,BMW,BMW 5 SERIES,Plug-in hybrid electric (petrol),"1,081",414,346,641,385,358,594,775,350,367,123,478,"1,221",810,787,"1,537","2,962","1,261","1,494",854,801,776,376,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,VOLVO,VOLVO C40,Battery electric,"1,015",273,165,461,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,VAUXHALL,VAUXHALL CORSA,Battery electric,977,759,"1,778",918,"1,425","1,390","1,561","1,231",937,"1,032",529,359,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,FORD,FORD MUSTANG MACH-E,Battery electric,955,"1,098",892,"1,552",669,"1,691",379,2,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,LAND ROVER,LAND ROVER RANGE ROVER EVOQUE,Plug-in hybrid electric (petrol),955,"1,225",692,"1,295",987,"1,096",932,"1,520","1,163",28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,NISSAN,NISSAN ARIYA,Battery electric,888,577,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,PEUGEOT,PEUGEOT 208,Battery electric,841,"1,207","1,582",945,"1,122","1,233",996,967,787,817,344,792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,HYUNDAI,HYUNDAI TUCSON,Plug-in hybrid electric (petrol),792,828,512,903,410,304,168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MERCEDES,MERCEDES CLA CLASS,Plug-in hybrid electric (petrol),771,642,439,705,"1,011",234,54,170,559,442,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MERCEDES,MERCEDES A CLASS,Plug-in hybrid electric (petrol),735,255,222,"1,340","1,579","1,249","1,754","1,912","3,734","2,532",261,110,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,KIA,KIA EV6,Battery electric,671,"1,085",984,"1,579",920,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,AUDI,AUDI A3,Plug-in hybrid electric (petrol),667,958,951,493,910,"1,389","2,275","1,178",349,407,230,434,0,0,0,1,9,159,272,91,80,261,129,167,107,69,165,226,194,475,293,236,66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MERCEDES,MERCEDES EQB CLASS,Battery electric,666,658,875,448,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,VOLVO,VOLVO XC60,Plug-in hybrid electric (petrol),654,362,657,449,778,"1,120",706,933,644,726,169,533,248,175,192,390,255,194,186,247,134,35,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,JAGUAR,JAGUAR I-PACE,Battery electric,640,"1,367","1,483","1,249","1,519","1,729","1,216",740,"4,090","2,032","1,030","1,146","1,125","1,171",982,917,534,210,92,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,TOYOTA,TOYOTA RAV4,Plug-in hybrid electric (petrol),615,448,555,975,628,696,188,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MAZDA,MAZDA CX-60,Plug-in hybrid electric (petrol),564,258,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,LEXUS,LEXUS NX 450,Plug-in hybrid electric (petrol),550,337,244,427,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MINI,MINI COUNTRYMAN,Plug-in hybrid electric (petrol),543,469,297,446,426,474,604,931,694,536,214,659,807,860,881,"1,224",781,632,312,580,599,247,128,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,BMW,BMW X5,Plug-in hybrid electric (petrol),532,"1,125",633,833,596,"1,230","1,005",869,693,384,176,217,336,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,FIAT,FIAT 500,Battery electric,500,"1,055","1,756","1,593","1,165","1,036",429,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,LAND ROVER,LAND ROVER RANGE ROVER SPORT,Plug-in hybrid electric (petrol),491,103,18,3,6,6,24,61,18,0,2,979,570,681,586,750,562,472,324,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,VOLKSWAGEN,VOLKSWAGEN UP,Battery electric,482,25,96,395,961,273,133,16,32,86,36,91,2,1,3,0,5,5,13,4,12,4,3,2,7,2,5,6,7,7,4,13,29,22,16,25,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MG,MG HS,Plug-in hybrid electric (petrol),476,354,522,974,251,763,429,180,174,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,LAND ROVER,LAND ROVER DISCOVERY,Plug-in hybrid electric (petrol),459,441,304,787,697,642,299,859,546,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,BMW,BMW X3,Plug-in hybrid electric (petrol),453,322,436,279,525,894,563,410,290,151,96,199,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,LAND ROVER,LAND ROVER RANGE ROVER,Plug-in hybrid electric (petrol),442,96,22,0,0,0,0,0,0,0,2,199,283,299,317,521,561,190,215,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,AUDI,AUDI Q3,Plug-in hybrid electric (petrol),404,377,186,189,468,85,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,VOLKSWAGEN,VOLKSWAGEN TIGUAN,Plug-in hybrid electric (petrol),403,306,39,65,195,159,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,BMW,BMW I3,Battery electric,396,622,707,"1,099","1,045",819,965,768,"1,504","1,617",407,920,"1,149","1,181",969,794,419,363,171,256,315,197,242,227,159,205,130,99,139,93,98,273,187,116,110,143,94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,CITROEN,CITROEN C4,Battery electric,394,706,"1,518",573,489,376,251,230,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,VOLKSWAGEN,VOLKSWAGEN ID BUZZ,Battery electric,361,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,GENESIS,GENESIS GV60,Battery electric,346,189,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,VOLVO,VOLVO XC90,Plug-in hybrid electric (petrol),322,741,306,870,581,679,691,595,416,432,230,530,588,374,246,365,329,217,204,419,381,477,353,582,461,362,251,526,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,LAND ROVER,LAND ROVER DEFENDER,Plug-in hybrid electric (petrol),299,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,VOLKSWAGEN,VOLKSWAGEN PASSAT,Plug-in hybrid electric (petrol),288,218,295,170,272,249,298,262,266,360,96,233,147,123,0,4,24,297,582,715,520,393,262,270,113,70,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,JEEP,JEEP COMPASS,Plug-in hybrid electric (petrol),284,274,306,52,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,CITROEN,CITROEN C5,Plug-in hybrid electric (petrol),271,174,492,145,159,137,210,176,101,183,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MERCEDES,MERCEDES C CLASS,Plug-in hybrid electric (petrol),271,211,83,18,0,0,203,100,130,44,25,0,0,0,2,5,57,505,947,420,355,940,906,"1,052","1,175","1,457","1,480","1,282",501,109,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,TOYOTA,TOYOTA BZ4X,Battery electric,268,0,170,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,AUDI,AUDI Q5,Plug-in hybrid electric (petrol),263,95,409,303,"1,032","1,015",293,57,360,770,252,296,274,130,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,VOLVO,VOLVO V60,Plug-in hybrid electric (petrol),240,99,78,129,290,263,117,204,129,86,42,78,24,23,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,KIA,KIA SPORTAGE,Plug-in hybrid electric (petrol),234,717,458,73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,BMW,BMW X2,Plug-in hybrid electric (petrol),226,183,177,270,165,169,340,353,162,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,PEUGEOT,PEUGEOT 3008,Plug-in hybrid electric (petrol),215,201,567,"1,183",783,594,529,389,256,345,105,370,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,BMW,BMW 2 SERIES,Plug-in hybrid electric (petrol),206,19,1,2,29,51,49,123,142,137,49,245,243,550,292,464,751,622,183,197,310,209,169,314,182,130,100,65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,KIA,KIA XCEED,Plug-in hybrid electric (petrol),204,274,260,370,178,285,277,333,243,220,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,DS,DS DS3,Battery electric,177,266,81,195,248,270,116,139,190,139,42,79,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,CITROEN,CITROEN BERLINGO,Battery electric,173,93,32,46,71,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MERCEDES,MERCEDES EQE CLASS,Battery electric,168,238,104,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MAZDA,MAZDA MX-30,Battery electric,167,198,331,201,612,902,264,264,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,LAND ROVER,LAND ROVER RANGE ROVER VELAR,Plug-in hybrid electric (petrol),161,114,394,208,170,54,184,175,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,KIA,KIA NIRO,Plug-in hybrid electric (petrol),160,378,326,456,538,382,739,622,485,829,187,558,178,221,340,352,361,209,234,467,157,138,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,SMART,SMART FORTWO,Battery electric,158,63,147,196,178,159,230,271,200,242,69,110,120,136,20,112,112,105,54,17,71,34,11,0,0,0,0,0,0,0,2,18,30,25,29,30,62,20,2,1,9,1,0,3,53,6,11,44,28,31,3,1
+United Kingdom,Number,Cars,PEUGEOT,PEUGEOT 308,Plug-in hybrid electric (petrol),155,182,345,9,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MERCEDES,MERCEDES EQS CLASS,Battery electric,137,271,183,118,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,SUBARU,SUBARU SOLTERRA,Battery electric,126,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,PORSCHE,PORSCHE CAYENNE,Plug-in hybrid electric (petrol),121,150,144,139,164,47,152,92,84,0,0,360,817,5,0,0,2,285,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MERCEDES,MERCEDES GLA CLASS,Plug-in hybrid electric (petrol),120,188,125,506,342,375,584,376,356,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,DS,DS DS4,Plug-in hybrid electric (petrol),118,129,82,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,VOLKSWAGEN,VOLKSWAGEN MULTIVAN,Plug-in hybrid electric (petrol),116,161,60,71,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,VAUXHALL,VAUXHALL ASTRA,Plug-in hybrid electric (petrol),115,20,206,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,RENAULT,RENAULT CAPTUR,Plug-in hybrid electric (petrol),111,66,43,143,100,61,295,141,65,147,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MINI,MINI ONE,Battery electric,101,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,DS,DS DS7,Plug-in hybrid electric (petrol),100,125,55,44,63,92,33,26,36,36,9,73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,JAGUAR,JAGUAR E-PACE,Plug-in hybrid electric (petrol),95,191,54,44,121,120,206,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,LEXUS,LEXUS UX 300,Battery electric,95,58,88,148,650,199,111,117,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,VAUXHALL,VAUXHALL VIVARO,Battery electric,93,42,87,123,304,49,35,24,20,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,AUDI,AUDI A6,Plug-in hybrid electric (petrol),90,10,43,123,50,168,135,173,261,102,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,TOYOTA,TOYOTA PRIUS,Plug-in hybrid electric (petrol),82,59,86,39,58,190,109,113,133,344,73,202,181,241,67,219,121,168,183,297,84,121,90,126,6,15,5,70,67,82,50,71,103,105,48,123,87,119,118,182,120,317,30,0,0,0,0,3,1,0,20,0
+United Kingdom,Number,Cars,MERCEDES,MERCEDES GLE CLASS,Plug-in hybrid electric (diesel),79,383,364,711,728,139,105,302,382,98,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MERCEDES,MERCEDES S CLASS,Plug-in hybrid electric (petrol),78,50,71,37,23,1,0,0,8,18,30,20,55,24,28,60,5,0,0,0,6,16,30,48,19,27,39,48,54,38,63,63,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,VAUXHALL,VAUXHALL GRANDLAND,Plug-in hybrid electric (petrol),73,118,248,200,34,34,15,51,354,713,27,311,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,BMW,BMW 7 SERIES,Battery electric,71,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,PORSCHE,PORSCHE PANAMERA,Plug-in hybrid electric (petrol),70,94,131,42,89,52,65,47,56,1,1,58,136,125,201,48,16,86,228,288,218,334,129,2,25,38,42,72,48,47,40,63,49,43,63,33,42,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,VAUXHALL,VAUXHALL COMBO,Battery electric,58,47,41,108,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,SUZUKI,SUZUKI ACROSS,Plug-in hybrid electric (petrol),55,51,18,45,85,36,5,0,125,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,KIA,KIA SORENTO,Plug-in hybrid electric (petrol),53,100,115,151,106,289,183,76,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,HYUNDAI,HYUNDAI IONIQ,Plug-in hybrid electric (petrol),50,132,227,26,36,127,265,275,53,707,27,108,184,302,208,194,203,213,259,312,125,190,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,PEUGEOT,PEUGEOT 3008,Hybrid electric (petrol),50,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,PEUGEOT,PEUGEOT 508,Plug-in hybrid electric (petrol),48,87,82,70,36,56,153,102,140,88,74,276,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,HYUNDAI,HYUNDAI SANTA FE,Plug-in hybrid electric (petrol),46,134,186,33,110,38,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,JAGUAR,JAGUAR F-PACE,Plug-in hybrid electric (petrol),45,268,192,437,269,129,126,195,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,VOLKSWAGEN,VOLKSWAGEN ARTEON,Plug-in hybrid electric (petrol),43,107,144,75,128,40,23,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,GREAT WALL,GREAT WALL FUNKY CAT,Battery electric,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,BMW,BMW X1,Plug-in hybrid electric (petrol),37,46,358,903,542,351,662,512,369,354,74,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MERCEDES,MERCEDES VITO,Battery electric,37,22,49,35,46,27,31,29,71,22,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,VOLVO,VOLVO V90,Plug-in hybrid electric (petrol),36,46,27,55,54,34,44,74,34,30,22,27,66,60,23,28,31,55,24,24,26,16,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,SKODA,SKODA OCTAVIA,Plug-in hybrid electric (petrol),34,170,78,498,497,605,908,163,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,SKODA,SKODA SUPERB,Plug-in hybrid electric (petrol),32,27,104,270,612,249,597,176,436,448,100,233,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,VOLVO,VOLVO S90,Plug-in hybrid electric (petrol),29,31,78,130,42,56,93,46,31,23,13,18,24,16,26,41,20,7,10,20,27,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,ORA,ORA FUNKY CAT,Battery electric,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,JEEP,JEEP RENEGADE,Plug-in hybrid electric (petrol),27,31,33,3,103,265,121,131,96,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,GENESIS,GENESIS GV70,Battery electric,26,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MERCEDES,MERCEDES GLC CLASS,Plug-in hybrid electric (petrol),24,83,311,310,98,132,50,52,84,86,29,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MERCEDES,MERCEDES AMG CLASS,Battery electric,23,20,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,PEUGEOT,PEUGEOT RIFTER,Battery electric,22,24,27,37,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,SMART,SMART FORFOUR,Battery electric,22,157,209,236,298,100,165,127,138,340,110,134,25,65,23,68,75,25,28,51,45,16,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,HONDA,HONDA E,Battery electric,20,101,195,135,117,251,234,95,436,556,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,SSANGYONG,SSANGYONG KORANDO,Battery electric,19,4,11,39,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,VOLVO,VOLVO S60,Plug-in hybrid electric (petrol),19,37,37,19,18,17,15,27,45,48,4,43,29,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,CITROEN,CITROEN SPACETOURER,Battery electric,18,20,20,7,28,1,5,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MERCEDES,MERCEDES EQV CLASS,Battery electric,13,8,76,170,204,160,85,40,93,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,AUDI,AUDI A8,Plug-in hybrid electric (petrol),10,16,4,10,3,8,20,30,1,9,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,GENESIS,GENESIS G80,Battery electric,7,3,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,JAGUAR,JAGUAR MODEL MISSING,Battery electric,6,1,0,8,1,1,5,2,0,8,8,42,23,2,42,8,1,6,5,223,30,2,67,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MERCEDES,MERCEDES GLC CLASS,Hybrid electric (petrol),5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MERCEDES,MERCEDES GLC CLASS,Plug-in hybrid electric (diesel),5,66,145,268,375,355,242,224,335,288,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MG,MG MODEL MISSING,Battery electric,5,0,0,5,0,1,6,0,0,0,0,3,2,0,11,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,PEUGEOT,PEUGEOT TRAVELLER,Battery electric,5,9,19,11,15,35,16,21,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,TESLA,TESLA MODEL S,Battery electric,5,8,3,3,3,2,3,18,268,284,197,155,201,255,455,320,351,497,498,541,779,674,401,786,558,634,501,762,798,324,131,217,239,286,192,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,KIA,KIA SOUL,Battery electric,4,234,227,382,84,328,507,217,202,314,151,217,0,0,0,30,88,181,96,58,86,40,35,54,33,55,41,28,65,30,18,16,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,OTHER BRITISH,OTHER BRITISH MODEL MISSING,Battery electric,4,14,8,9,3,4,7,4,6,3,0,4,2,14,4,10,1,3,3,2,18,1,0,1,26,4,2,0,2,13,2,1,21,14,2,28,4,5,4,3,4,0,4,3,6,23,10,36,3,1,3,4
+United Kingdom,Number,Cars,TESLA,TESLA MODEL MISSING,Battery electric,4,2,1,1,1,0,1,1,0,0,0,2,0,1,1,1,2,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+United Kingdom,Number,Cars,BMW,BMW 7 SERIES,Plug-in hybrid electric (petrol),3,55,110,72,87,94,120,66,51,107,16,83,102,82,69,92,55,55,60,66,114,118,36,116,78,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,FORD,FORD TOURNEO,Range extended electric,3,7,4,0,0,0,0,0,1,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MERCEDES,MERCEDES MODEL MISSING,Hybrid electric (petrol),3,18,3,3,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,NISSAN,NISSAN MODEL MISSING,Battery electric,3,1,3,5,0,3,1,3,5,0,0,2,1,4,1,0,0,0,0,0,0,0,0,2,3,3,0,0,4,1,0,0,0,0,0,0,0,0,0,2,5,0,0,0,0,0,0,0,7,4,0,0
+United Kingdom,Number,Cars,PEUGEOT,PEUGEOT MODEL MISSING,Battery electric,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+United Kingdom,Number,Cars,RENAULT,RENAULT MODEL MISSING,Battery electric,3,3,2,2,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,TESLA,TESLA MODEL X,Battery electric,3,3,1,1,0,1,1,50,492,604,254,176,253,366,340,325,322,442,422,293,452,589,447,627,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,AUDI,AUDI A7,Plug-in hybrid electric (petrol),2,0,5,12,5,12,23,34,50,104,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,JEEP,JEEP GRAND CHEROKEE,Plug-in hybrid electric (petrol),2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MERCEDES,MERCEDES E CLASS,Plug-in hybrid electric (diesel),2,20,91,213,196,182,103,485,459,247,217,273,322,283,225,140,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,RENAULT,RENAULT TWIZY,Battery electric,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7,9,6,6,7,4,5,0,7,5,12,26,6,8,32,51,9,19,13,6,15,28,44,38,52,76,150,5,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,CHEVROLET,CHEVROLET MODEL MISSING,Battery electric,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,CITROEN,CITROEN MODEL MISSING,Battery electric,1,3,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2
+United Kingdom,Number,Cars,HYUNDAI,HYUNDAI TUCSON,Other fuel types,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,JAGUAR,JAGUAR F-PACE,Hybrid electric (petrol),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,KIA,KIA MODEL MISSING,Battery electric,1,0,4,4,1,2,2,0,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,LAND ROVER,LAND ROVER MODEL MISSING,Hybrid electric (petrol),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MINI,MINI MODEL MISSING,Battery electric,1,0,0,2,0,0,1,2,1,1,0,0,1,4,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,ROLLS ROYCE,ROLLS ROYCE MODEL MISSING,Battery electric,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,ROLLS ROYCE,ROLLS ROYCE WRAITH,Battery electric,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,SEAT,SEAT LEON,Plug-in hybrid electric (petrol),1,2,9,71,636,620,793,148,868,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,TOYOTA,TOYOTA MIRAI,Fuel cell electric,1,3,0,2,3,1,5,1,33,6,0,5,10,27,5,23,7,0,28,1,3,9,2,18,0,1,2,5,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,TOYOTA,TOYOTA MODEL MISSING,Battery electric,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,VOLKSWAGEN,VOLKSWAGEN MODEL MISSING,Battery electric,1,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,VOLKSWAGEN,VOLKSWAGEN TOUAREG,Plug-in hybrid electric (petrol),1,30,4,2,9,2,13,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,AIXAM,AIXAM MEGA,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,2,1,2,1
+United Kingdom,Number,Cars,ASTON MARTIN,ASTON MARTIN MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,AUDI,AUDI A5,Battery electric,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,AUDI,AUDI MODEL MISSING,Battery electric,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,AUDI,AUDI Q7,Plug-in hybrid electric (diesel),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,30,62,93,80,78,116,22,0,69,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,AUDI,AUDI Q7,Plug-in hybrid electric (petrol),0,11,21,54,97,125,156,152,88,163,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,AUDI,AUDI Q8,Plug-in hybrid electric (petrol),0,2,6,23,35,52,31,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,AUSTIN,AUSTIN MODEL MISSING,Battery electric,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,BENTLEY,BENTLEY MODEL MISSING,Other fuel types,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,BMW,BMW 2 SERIES,Hybrid electric (petrol),0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,BMW,BMW 5 SERIES,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,BMW,BMW 5 SERIES,Hybrid electric (petrol),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,BMW,BMW I3,Range extended electric,0,0,0,1,0,0,0,0,0,0,0,0,7,26,12,205,770,710,355,336,531,685,581,706,545,653,292,435,510,357,256,481,332,145,158,196,84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,BMW,BMW I8,Plug-in hybrid electric (petrol),0,0,0,0,0,0,0,0,8,28,31,27,76,63,63,130,113,105,166,120,105,62,67,117,146,165,171,168,89,158,289,314,187,96,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,BMW,BMW M5,Hybrid electric (petrol),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,BYD,BYD E6,Battery electric,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,CHARGE,CHARGE MUSTANG,Battery electric,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,CHEVROLET,CHEVROLET VOLT,Range extended electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,6,34,11,12,13,21,27,3,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,CITROEN,CITROEN C1,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,CITROEN,CITROEN C-ZERO,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,1,4,0,1,6,12,6,0,0,1,1,0,0,3,0,0,18,25,20,73,17,9,11,20,7,12,7,0,0,0,0
+United Kingdom,Number,Cars,CUPRA,CUPRA FORMENTOR,Plug-in hybrid electric (petrol),0,11,102,568,793,812,366,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,CUPRA,CUPRA LEON,Plug-in hybrid electric (petrol),0,21,71,15,158,189,142,39,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,DFSK,DFSK MODEL MISSING,Battery electric,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,DS,DS DS9,Plug-in hybrid electric (petrol),0,4,10,15,15,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,ETRUSCO,ETRUSCO MODEL MISSING,Fuel cell electric,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,FIAT,FIAT MODEL MISSING,Battery electric,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,FORD,FORD FOCUS,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,2,2,0,0,0,0,4,6,1,0,5,2,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,FORD,FORD FOCUS,Other fuel types,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+United Kingdom,Number,Cars,FORD,FORD KUGA,Hybrid electric (petrol),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,FORD,FORD MODEL MISSING,Battery electric,0,1,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,7,0,2,0,0,0,0,0,0,0,1,0,0,2,0,0,2,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,FORD,FORD MUSTANG,Battery electric,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,FORD,FORD TRANSIT CUSTOM,Range extended electric,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,GENESIS,GENESIS MODEL MISSING,Battery electric,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,HYUNDAI,HYUNDAI IX35,Fuel cell electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,5,1,0,1,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,HYUNDAI,HYUNDAI MODEL MISSING,Battery electric,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,HYUNDAI,HYUNDAI MODEL MISSING,Fuel cell electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,HYUNDAI,HYUNDAI MODEL MISSING,Hybrid electric (petrol),0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,HYUNDAI,HYUNDAI NEXO,Fuel cell electric,0,0,0,2,2,0,0,0,0,1,6,6,4,1,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,HYUNDAI,HYUNDAI TUCSON,Hybrid electric (petrol),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,INFINITI,INFINITI M35H,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,JAGUAR,JAGUAR E-PACE,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,JONWAY,JONWAY MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,KIA,KIA CEED,Plug-in hybrid electric (petrol),0,0,0,0,0,4,36,58,67,72,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,KIA,KIA MODEL MISSING,Hybrid electric (petrol),0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,KIA,KIA OPTIMA,Plug-in hybrid electric (petrol),0,0,0,0,0,0,0,0,1,6,5,30,37,24,26,57,4,39,31,77,58,64,36,62,31,207,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,KIA,KIA PICANTO,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,KIA,KIA PICANTO,Hybrid electric (petrol),0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,KYMCO,KYMCO MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+United Kingdom,Number,Cars,LAND ROVER,LAND ROVER 90,Hybrid electric (petrol),0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,LAND ROVER,LAND ROVER MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,LAND ROVER,LAND ROVER MODEL MISSING,Hybrid electric (diesel),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,LAND ROVER,LAND ROVER RANGE ROVER,Hybrid electric (petrol),0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,LEVC,LEVC TX,Range extended electric,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,LOTUS,LOTUS MODEL MISSING,Battery electric,0,0,3,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MAHINDRA,MAHINDRA MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,4,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MAZDA,MAZDA 3,Battery electric,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MERCEDES,MERCEDES A CLASS,Hybrid electric (petrol),0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MERCEDES,MERCEDES B CLASS,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,18,49,63,41,71,128,42,23,98,33,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MERCEDES,MERCEDES B CLASS,Plug-in hybrid electric (petrol),0,0,6,111,115,93,86,38,69,12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MERCEDES,MERCEDES C CLASS,Battery electric,0,0,0,0,0,0,0,0,0,5,0,0,5,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MERCEDES,MERCEDES C CLASS,Plug-in hybrid electric (diesel),0,0,0,0,1,1,483,189,189,195,72,116,93,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MERCEDES,MERCEDES E CLASS,Hybrid electric (petrol),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MERCEDES,MERCEDES E CLASS,Plug-in hybrid electric (petrol),0,8,11,44,87,32,44,71,74,81,31,28,94,80,129,43,18,77,267,242,119,298,333,260,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MERCEDES,MERCEDES G CLASS,Hybrid electric (diesel),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MERCEDES,MERCEDES MODEL MISSING,Other fuel types,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MERCEDES,MERCEDES MODEL MISSING,Battery electric,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MERCEDES,MERCEDES MODEL MISSING,Hybrid electric (diesel),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MG,MG ZT,Battery electric,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MIA,MIA C,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MIA,MIA L3,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MINI,MINI COUNTRYMAN,Hybrid electric (petrol),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MITSUBISHI,MITSUBISHI COLT,Other fuel types,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MITSUBISHI,MITSUBISHI I-MIEV,Battery electric,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,14,17,69,9,11,44,60,0,0,26,1
+United Kingdom,Number,Cars,MITSUBISHI,MITSUBISHI L200,Battery electric,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MITSUBISHI,MITSUBISHI L200,Hybrid electric (petrol),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MITSUBISHI,MITSUBISHI MODEL MISSING,Battery electric,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MITSUBISHI,MITSUBISHI MODEL MISSING,Hybrid electric (petrol),0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MITSUBISHI,MITSUBISHI OUTLANDER,Plug-in hybrid electric (petrol),0,0,0,0,1,196,"1,071",725,397,881,395,"1,741","1,025","1,318","1,883","1,763","2,823","2,104","1,476","2,153","1,714","1,882","1,818","1,994","1,602","2,035","1,854","3,881","2,378","2,140","2,572","4,596","2,626","2,189",537,10,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,MORGAN,MORGAN PLUS 8,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,NISSAN,NISSAN 370,Battery electric,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,NISSAN,NISSAN NV200,Battery electric,0,1,35,60,59,75,87,177,99,72,30,74,73,72,51,41,25,23,16,9,16,47,33,36,32,37,35,16,38,29,21,9,24,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,NISSAN,NISSAN QASHQAI,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,OPEL,OPEL MODEL MISSING,Battery electric,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,OPEL,OPEL MODEL MISSING,Hybrid electric (petrol),0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,OTHER BRITISH,OTHER BRITISH MODEL MISSING,Fuel cell electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,OTHER ITALIAN,OTHER ITALIAN MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,PEUGEOT,PEUGEOT 307,Hybrid electric (diesel),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,PEUGEOT,PEUGEOT EXPERT,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,3,0
+United Kingdom,Number,Cars,PEUGEOT,PEUGEOT ION,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,5,1,5,2,5,4,4,7,16,10,10,3,0,10,7,2,0,11,1,0,12,14,115,70,31,7,0,43,67,10,0,0,0,0
+United Kingdom,Number,Cars,PEUGEOT,PEUGEOT PARTNER,Battery electric,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,POLESTAR,POLESTAR 1,Plug-in hybrid electric (petrol),0,0,0,1,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,POLESTAR,POLESTAR MODEL MISSING,Battery electric,0,0,3,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,PORSCHE,PORSCHE 918,Plug-in hybrid electric (petrol),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,15,28,10,6,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,PORSCHE,PORSCHE CAYENNE,Hybrid electric (petrol),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,PROTON,PROTON MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0
+United Kingdom,Number,Cars,RENAULT,RENAULT ADRIA,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,RENAULT,RENAULT FLUENCE,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,0,7,1,3,6,14,44,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,RENAULT,RENAULT MEGANE,Other fuel types,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+United Kingdom,Number,Cars,RENAULT,RENAULT MEGANE,Plug-in hybrid electric (petrol),0,19,28,31,30,32,45,44,16,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,RENAULT,RENAULT MODEL MISSING,Hybrid electric (petrol),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,REVA,REVA G-WIZ,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,14,7,4,3
+United Kingdom,Number,Cars,SEAT,SEAT MII,Battery electric,0,0,0,0,116,539,318,210,111,116,12,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,SKODA,SKODA CITIGO,Battery electric,0,0,0,0,0,8,13,33,59,115,35,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,SKODA,SKODA MODEL MISSING,Battery electric,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,SKODA,SKODA S100,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+United Kingdom,Number,Cars,TATA,TATA LOADBETA,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+United Kingdom,Number,Cars,TATA,TATA MODEL MISSING,Battery electric,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,4,3,15,21,0,0,9
+United Kingdom,Number,Cars,TESLA,TESLA ROADSTER,Battery electric,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,1,0,3,8,2,3,4,10,9,7,13,14,13
+United Kingdom,Number,Cars,THINK,THINK MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+United Kingdom,Number,Cars,THINK,THINK THINKCITY,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0
+United Kingdom,Number,Cars,TIANJIN,TIANJIN MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+United Kingdom,Number,Cars,TOYOTA,TOYOTA MODEL MISSING,Fuel cell electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,TOYOTA,TOYOTA MODEL MISSING,Other fuel types,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,TOYOTA,TOYOTA PRIUS,Hybrid electric (petrol),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,148,599,898,899,790,"1,086",904,794,890,354,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,TOYOTA,TOYOTA PRIUS,Other fuel types,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,TOYOTA,TOYOTA YARIS,Hybrid electric (petrol),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,TRIGANO,TRIGANO MODEL MISSING,Fuel cell electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,VAUXHALL,VAUXHALL AMPERA,Range extended electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,17,39,52,126,159,128,116,55,45,67,84,97,128,207,20,4,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,VAUXHALL,VAUXHALL MODEL MISSING,Hybrid electric (petrol),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,VOLKSWAGEN,VOLKSWAGEN GOLF,Battery electric,0,2,1,0,0,0,5,44,379,846,263,"1,204","1,310","1,208",796,521,358,332,156,134,33,48,6,4,5,9,11,11,12,16,9,39,11,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,VOLKSWAGEN,VOLKSWAGEN MODEL MISSING,Hybrid electric (petrol),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,VOLKSWAGEN,VOLKSWAGEN PASSAT,Hybrid electric (petrol),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,VOLKSWAGEN,VOLKSWAGEN XL1,Plug-in hybrid electric (diesel),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,5,15,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,VOLVO,VOLVO V60,Plug-in hybrid electric (diesel),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,8,12,28,30,32,104,131,74,43,36,19,16,33,46,26,26,60,51,21,17,25,12,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Cars,WESTFIELD,WESTFIELD MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,0,0,0,0
+United Kingdom,Number,Heavy goods vehicles,MAXUS,MAXUS DELIVER,Battery electric,163,31,131,11,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Heavy goods vehicles,FORD,FORD TRANSIT,Battery electric,85,151,11,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0
+United Kingdom,Number,Heavy goods vehicles,DENNIS,DENNIS ECOLLECT,Battery electric,15,2,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Heavy goods vehicles,OTHER BRITISH,OTHER BRITISH MODEL MISSING,Battery electric,9,7,7,4,9,5,7,8,1,2,0,1,4,8,2,0,1,1,1,0,2,1,1,0,4,0,1,3,1,1,0,1,1,1,1,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,4,1
+United Kingdom,Number,Heavy goods vehicles,TERBERG,TERBERG YT,Battery electric,7,4,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Heavy goods vehicles,RENAULT TRUCKS,RENAULT TRUCKS D SERIES,Battery electric,5,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Heavy goods vehicles,FIAT,FIAT DUCATO,Battery electric,3,48,8,9,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Heavy goods vehicles,DENNIS,DENNIS MODEL MISSING,Battery electric,2,0,4,7,7,7,10,8,7,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Heavy goods vehicles,SCANIA,SCANIA MODEL MISSING,Battery electric,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Heavy goods vehicles,VOLVO,VOLVO MODEL MISSING,Battery electric,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Heavy goods vehicles,ARRIVAL,ARRIVAL VAN,Battery electric,1,0,1,2,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Heavy goods vehicles,DAF TRUCKS,DAF TRUCKS MODEL MISSING,Battery electric,1,1,1,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Heavy goods vehicles,IVECO,IVECO DAILY,Battery electric,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Heavy goods vehicles,VOLVO,VOLVO FL,Battery electric,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Heavy goods vehicles,BD,BD DUCATO,Battery electric,0,0,0,0,0,0,15,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Heavy goods vehicles,ISUZU,ISUZU MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+United Kingdom,Number,Heavy goods vehicles,ISUZU TRUCKS,ISUZU TRUCKS FORWARD,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+United Kingdom,Number,Heavy goods vehicles,ISUZU TRUCKS,ISUZU TRUCKS MODEL MISSING,Battery electric,0,0,0,0,1,6,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Heavy goods vehicles,IVECO,IVECO EUROCARGO,Battery electric,0,0,1,2,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Heavy goods vehicles,JUNGHEINRICH,JUNGHEINRICH MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0
+United Kingdom,Number,Heavy goods vehicles,LDV,LDV V80,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Heavy goods vehicles,MERCEDES,MERCEDES MODEL MISSING,Battery electric,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Heavy goods vehicles,MITSUBISHI FUSO,MITSUBISHI FUSO CANTER,Battery electric,0,3,1,0,0,4,1,1,0,0,0,0,0,0,0,1,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Heavy goods vehicles,PERODUA,PERODUA MODEL MISSING,Battery electric,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Heavy goods vehicles,VOLVO,VOLVO V40,Battery electric,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Heavy goods vehicles,VOLVO,VOLVO XC70,Battery electric,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,VAUXHALL,VAUXHALL VIVARO,Battery electric,"1,202",777,"1,396",834,925,341,939,547,266,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,PEUGEOT,PEUGEOT EXPERT,Battery electric,"1,088",296,200,717,638,121,107,71,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,MAXUS,MAXUS DELIVER,Battery electric,674,477,209,202,685,439,262,81,33,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,FORD,FORD TRANSIT,Battery electric,636,567,303,0,3,0,0,2,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,1,1,1,3,0,0,0,0
+United Kingdom,Number,Light goods vehicles,MERCEDES,MERCEDES VITO,Battery electric,382,230,326,551,869,122,40,33,91,25,9,59,104,12,5,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,2,2,2,3,4,2,0,1,0,6,1,4,0,0,2,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,PEUGEOT,PEUGEOT PARTNER,Battery electric,382,328,151,604,28,0,0,0,0,1,0,10,24,22,19,133,16,13,32,59,122,9,16,6,5,23,2,6,9,12,12,3,4,4,17,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,TOYOTA,TOYOTA PROACE,Battery electric,323,221,188,204,327,194,71,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,VAUXHALL,VAUXHALL COMBO,Battery electric,219,191,256,156,160,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,VOLKSWAGEN,VOLKSWAGEN ID BUZZ,Battery electric,153,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,FORD,FORD TRANSIT CUSTOM,Range extended electric,148,20,56,53,141,175,184,227,112,71,22,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,MERCEDES,MERCEDES SPRINTER,Battery electric,104,106,107,87,594,415,104,31,716,237,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,CITROEN,CITROEN DISPATCH,Battery electric,97,74,106,155,108,39,97,36,13,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,CITROEN,CITROEN BERLINGO,Battery electric,58,76,75,126,12,0,0,0,0,16,2,5,11,19,11,31,25,25,12,10,7,10,9,10,9,7,0,3,3,3,3,0,0,3,0,1,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,RENAULT TRUCKS,RENAULT TRUCKS MASTER,Battery electric,58,8,2,13,14,2,3,9,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,OTHER BRITISH,OTHER BRITISH MODEL MISSING,Battery electric,54,44,42,44,31,22,20,27,31,53,7,71,23,30,22,64,30,46,90,152,19,14,22,15,13,27,15,8,18,21,7,12,4,19,18,9,15,21,23,16,15,18,24,27,27,22,12,17,11,26,23,8
+United Kingdom,Number,Light goods vehicles,MAN,MAN TGE,Battery electric,39,18,27,0,19,1,16,41,37,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,FIAT,FIAT DOBLO,Battery electric,28,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,FIAT,FIAT SCUDO,Battery electric,19,24,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,HSUN,HSUN HS5D,Battery electric,16,7,14,27,15,18,21,10,9,4,10,20,6,11,3,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,GOUPIL,GOUPIL MODEL MISSING,Battery electric,13,3,6,26,9,4,1,2,1,1,0,3,1,1,1,2,1,3,8,1,2,3,5,10,3,3,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,LEVC,LEVC VN5,Range extended electric,13,106,115,61,213,54,58,22,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,LVTONG,LVTONG S2,Battery electric,10,11,13,8,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,FIAT,FIAT DUCATO,Battery electric,7,8,17,7,21,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,DFSK,DFSK EC35,Battery electric,6,6,26,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,ADDAX,ADDAX MT,Battery electric,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,FORD,FORD MODEL MISSING,Battery electric,4,4,10,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,2,15,1,0,0,0
+United Kingdom,Number,Light goods vehicles,LDV,LDV V80,Battery electric,3,2,7,9,31,47,18,55,68,182,1,39,114,42,12,17,0,6,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,ALKE,ALKE ATX,Battery electric,2,1,8,7,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,ETESIA,ETESIA ET LANDER,Battery electric,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,ETESIA,ETESIA MODEL MISSING,Battery electric,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,MAHINDRA,MAHINDRA MODEL MISSING,Battery electric,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,RENAULT,RENAULT MODEL MISSING,Battery electric,2,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,RENAULT,RENAULT TWIZY,Battery electric,2,2,12,3,5,7,3,5,8,3,3,4,5,7,14,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,ARRIVAL,ARRIVAL VAN,Battery electric,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,PIAGGIO,PIAGGIO APE,Battery electric,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,RENAULT,RENAULT MASTER,Battery electric,1,1,21,22,2,15,12,17,3,6,1,12,0,17,0,4,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,RENAULT,RENAULT MASTER,Other fuel types,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,AIXAM,AIXAM MEGA,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,1,0,0,0,4,0,3,11,2,7,7,7,7,18,17,14
+United Kingdom,Number,Light goods vehicles,AIXAM,AIXAM MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,2,1,1,1,4,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,AVIA,AVIA MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,BYD,BYD ETP,Battery electric,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,CENNTRO,CENNTRO METRO,Battery electric,0,0,3,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,CITROEN,CITROEN MODEL MISSING,Battery electric,0,1,0,0,0,0,0,14,17,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,CITROEN,CITROEN RELAY,Battery electric,0,7,2,1,2,0,0,109,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,CITROEN,CITROEN RELAY,Other fuel types,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,DFSK,DFSK MODEL MISSING,Battery electric,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,EAGLE,EAGLE EG,Battery electric,0,1,1,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,EAGLE,EAGLE MODEL MISSING,Battery electric,0,1,2,1,0,0,0,0,3,22,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,ECO,ECO MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,FIAT,FIAT AUTO TRAIL,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,FORD,FORD GALAXY,Hybrid electric (petrol),0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,FORD,FORD TOURNEO,Range extended electric,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,FORD,FORD TRANSIT,Hybrid electric (petrol),0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,FORD,FORD TRANSIT CUSTOM,Hybrid electric (petrol),0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,FORD,FORD TRANSIT CUSTOM,Other fuel types,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,GEM,GEM E4,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,GEM,GEM MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,GOUPIL,GOUPIL G3,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,4,4,4,6,4,9,11,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,HSUN,HSUN HS 500 SERIES,Battery electric,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,HSUN,HSUN MODEL MISSING,Battery electric,0,0,0,3,4,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,ISUZU,ISUZU MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,ISUZU TRUCKS,ISUZU TRUCKS FORWARD,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,ISUZU TRUCKS,ISUZU TRUCKS MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+United Kingdom,Number,Light goods vehicles,IVECO,IVECO MODEL MISSING,Battery electric,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,JACOBSEN,JACOBSEN MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,JOHN DEERE,JOHN DEERE MODEL MISSING,Battery electric,0,1,0,4,0,0,4,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,JOHN DEERE,JOHN DEERE TE400 SERIES,Battery electric,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,LDV,LDV MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,LIGIER,LIGIER MODEL MISSING,Battery electric,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,LINHAI,LINHAI LH50,Battery electric,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,MAKE MISSING,MAKE MISSING MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,MASERATI,MASERATI MODEL MISSING,Battery electric,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,MERCEDES,MERCEDES MODEL MISSING,Hybrid electric (petrol),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,MIA,MIA MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,MIA,MIA U2,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,MICROCAR,MICROCAR MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,MITSUBISHI,MITSUBISHI MODEL MISSING,Hybrid electric (petrol),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,MITSUBISHI,MITSUBISHI OUTLANDER,Plug-in hybrid electric (petrol),0,0,0,0,0,13,19,89,95,83,72,70,64,45,62,35,30,12,38,67,29,22,12,31,19,16,21,21,10,4,5,79,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,MODEC,MODEC MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,14,0,3,4
+United Kingdom,Number,Light goods vehicles,NISSAN,NISSAN MODEL MISSING,Battery electric,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,2,0,0,1,3,12,16,6,9,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,NISSAN,NISSAN NV200,Battery electric,0,11,101,316,359,283,323,610,421,548,434,743,516,462,379,272,202,210,49,128,88,278,177,253,155,214,205,185,136,197,183,123,167,114,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,OTHER AGRIC/CONSTRUCTIONAL,OTHER AGRIC/CONSTRUCTIONAL MODEL MISSING,Battery electric,0,1,4,2,1,0,1,2,0,2,0,0,2,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,4,0,2,0,0,2,1,0,0,0,7,0,0,2,0,0,0,0,0,0,3
+United Kingdom,Number,Light goods vehicles,OTHER ITALIAN,OTHER ITALIAN MODEL MISSING,Battery electric,0,0,1,0,3,1,2,0,1,0,0,1,0,0,0,0,3,1,0,7,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0
+United Kingdom,Number,Light goods vehicles,PAXSTER,PAXSTER MODEL MISSING,Battery electric,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,PAXSTER,PAXSTER PAXSTER,Battery electric,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,PEUGEOT,PEUGEOT 107,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,PEUGEOT,PEUGEOT 309,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+United Kingdom,Number,Light goods vehicles,PEUGEOT,PEUGEOT BIPPER,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+United Kingdom,Number,Light goods vehicles,PEUGEOT,PEUGEOT E-BOXER,Battery electric,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,PEUGEOT,PEUGEOT MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,14,2,0,0,0
+United Kingdom,Number,Light goods vehicles,PIAGGIO,PIAGGIO PORTER,Battery electric,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,POLARIS,POLARIS MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2,0,1,0,1,4,0,0,0,0,0,0,3,1,0,0,2,2,0,2,0,0,0,0
+United Kingdom,Number,Light goods vehicles,POLARIS,POLARIS RANGER,Battery electric,0,0,0,0,0,2,2,0,0,0,2,3,5,7,4,5,1,2,0,2,1,1,2,3,0,2,0,1,5,2,3,0,0,0,1,0,1,1,1,1,0,4,1,3,3,3,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,POLARIS,POLARIS SPORTSMAN,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,RENAULT,RENAULT KANGOO,Battery electric,0,40,174,124,132,130,224,456,297,383,128,349,401,183,237,136,100,58,81,68,58,40,33,32,28,14,46,47,5,11,47,40,50,32,96,47,31,29,67,46,56,102,64,37,33,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,RENAULT,RENAULT MODUS,Battery electric,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,RENAULT,RENAULT ZOE,Battery electric,0,25,89,131,98,95,134,178,14,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,SMITHS,SMITHS MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,3,0,0,0,0,0,2,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,TATA,TATA MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,7,1,1,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,VAUXHALL,VAUXHALL COMBO,Other fuel types,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,VAUXHALL,VAUXHALL MODEL MISSING,Battery electric,0,0,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,VOLKSWAGEN,VOLKSWAGEN MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+United Kingdom,Number,Light goods vehicles,VOLKSWAGEN,VOLKSWAGEN TRANSPORTER,Battery electric,0,0,2,15,270,102,163,272,49,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,W+E,W+E MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,WESTFIELD,WESTFIELD MODEL MISSING,Battery electric,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Light goods vehicles,YAMAHA,YAMAHA MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,MAEVING,MAEVING RM1,Battery electric,107,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,OTHER ITALIAN,OTHER ITALIAN MODEL MISSING,Battery electric,97,265,177,151,144,207,188,219,253,159,47,100,140,90,105,50,58,35,47,38,32,54,42,38,23,26,21,118,20,83,21,24,20,24,23,6,14,7,3,20,12,24,24,16,38,43,85,75,56,95,94,60
+United Kingdom,Number,Motorcycles,SUR-RON,SUR-RON LIGHT BEE,Battery electric,89,95,145,139,132,164,126,88,74,73,71,31,12,21,16,11,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,NIU,NIU NQI,Battery electric,86,142,116,77,87,230,150,172,100,127,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,PIAGGIO,PIAGGIO ONE,Battery electric,54,72,84,55,12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,VMOTO,VMOTO CPA,Battery electric,53,90,117,391,426,320,328,173,36,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,VMOTO,VMOTO TCM,Battery electric,47,104,97,57,70,63,64,14,37,34,22,26,56,25,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,TALARIA,TALARIA STING,Battery electric,40,64,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,YADEA,YADEA G5,Battery electric,33,22,29,42,15,22,7,2,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,SCUTUM,SCUTUM SEAT,Battery electric,29,100,26,27,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,VMOTO,VMOTO CUX,Battery electric,27,27,22,45,20,41,43,20,28,32,17,13,19,27,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,HORWIN,HORWIN EK1,Battery electric,26,15,9,6,25,7,48,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,E-MAX,E-MAX MODEL MISSING,Battery electric,20,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,ASKOLL,ASKOLL ESPRO,Battery electric,18,20,15,115,5,100,101,13,8,0,0,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,NIU,NIU M SERIES,Battery electric,17,27,43,39,46,66,27,13,14,38,48,39,32,58,24,17,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,E-MAX,E-MAX LB1,Battery electric,15,18,136,147,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,KEEWAY,KEEWAY E-ZI,Battery electric,15,29,41,36,24,32,32,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,YAMAHA,YAMAHA NEO'S,Battery electric,15,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,ZERO,ZERO DSR ZF,Battery electric,15,1,2,0,0,7,4,2,1,2,1,4,0,0,4,2,1,7,6,2,4,3,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,YADEA,YADEA S-LIKE,Battery electric,14,27,13,11,8,13,6,2,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,HORWIN,HORWIN CR6,Battery electric,13,22,18,10,9,12,7,2,10,12,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,ELECTRIC MOTION,ELECTRIC MOTION EPURE,Battery electric,12,23,10,24,19,17,25,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,VMOTO,VMOTO TS1,Battery electric,12,22,25,13,16,16,21,7,16,9,10,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,HORWIN,HORWIN SK3,Battery electric,11,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,SILENCE,SILENCE S SERIES,Battery electric,11,36,51,43,28,39,23,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,KTM,KTM EXC,Battery electric,10,2,9,3,11,2,2,2,7,0,7,7,3,4,3,3,3,10,7,6,6,3,1,1,16,9,2,3,3,5,3,13,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,ARTISAN,ARTISAN EV 2000,Battery electric,9,11,7,14,18,21,25,9,13,19,18,6,4,9,7,6,4,6,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,NIU,NIU MGT,Battery electric,9,6,16,13,22,17,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,BMW,BMW CE,Battery electric,8,17,21,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,HORWIN,HORWIN EK3,Battery electric,8,16,10,12,18,12,18,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,VMOTO,VMOTO TC1,Battery electric,8,24,17,9,17,23,12,9,23,30,25,16,26,34,22,28,17,37,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,ZERO,ZERO FX ZF,Battery electric,8,12,8,9,7,4,4,1,5,2,0,1,2,2,4,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,SUR-RON,SUR-RON STORM BEE,Battery electric,7,10,23,24,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,SAKURA,SAKURA MODEL MISSING,Battery electric,6,8,12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,VMOTO,VMOTO TC,Battery electric,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,VMOTO,VMOTO TS,Battery electric,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,SEGWAY,SEGWAY B SERIES,Battery electric,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,SEGWAY,SEGWAY E SERIES,Battery electric,5,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,SUNRA,SUNRA ROBO,Battery electric,5,18,11,4,7,12,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,VOGE,VOGE ER10,Battery electric,5,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,YADEA,YADEA C1S,Battery electric,5,45,15,10,3,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,ELECTRIC MOTION,ELECTRIC MOTION ESCAPE,Battery electric,4,6,2,5,5,1,2,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,LEXMOTO,LEXMOTO LX,Battery electric,4,18,13,5,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,UBCO,UBCO 2X2,Battery electric,4,11,15,14,5,3,14,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,VMOTO,VMOTO CUM,Battery electric,4,17,6,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,ZERO,ZERO SRF ZF,Battery electric,4,9,11,8,6,17,14,3,3,4,1,6,11,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,DAYI MOTOR,DAYI MOTOR E-ODIN,Battery electric,3,9,3,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,HARLEY-DAVIDSON,HARLEY-DAVIDSON ELW,Battery electric,3,2,8,5,10,5,9,10,9,7,6,16,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,MGB,MGB E3,Battery electric,3,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,NIU,NIU U SERIES,Battery electric,3,10,15,17,19,35,16,7,18,30,3,5,9,16,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,OTHER BRITISH,OTHER BRITISH MODEL MISSING,Battery electric,3,2,6,5,19,5,4,4,13,2,1,7,4,3,18,5,3,3,10,5,10,5,4,1,2,6,13,3,2,17,9,3,6,7,3,4,4,8,3,9,8,8,9,18,11,5,23,20,28,20,28,31
+United Kingdom,Number,Motorcycles,PIAGGIO,PIAGGIO VESPA,Battery electric,3,13,11,2,19,18,22,13,10,27,6,10,4,5,22,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,ZERO,ZERO FXS ZF,Battery electric,3,3,1,7,13,12,10,3,6,13,5,2,0,5,1,1,1,5,3,2,1,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,ZERO,ZERO S ZF,Battery electric,3,14,10,9,11,11,8,4,5,12,2,2,1,1,2,2,1,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,ARTISAN,ARTISAN ES1-PRO,Battery electric,2,4,6,5,5,4,4,3,5,8,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,CAKE,CAKE MODEL MISSING,Battery electric,2,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,E-MAX,E-MAX VSA,Battery electric,2,2,4,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,LVNENG,LVNENG LX,Battery electric,2,16,5,6,11,7,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,MGB,MGB E4,Battery electric,2,6,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,MGB,MGB G1,Battery electric,2,8,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,SUNRA,SUNRA MIKU,Battery electric,2,11,15,10,6,12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,TALARIA,TALARIA MODEL MISSING,Battery electric,2,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,ARTISAN,ARTISAN EVO,Battery electric,1,3,2,5,3,5,1,2,0,5,3,1,5,5,3,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,BLUESHARK,BLUESHARK KEEWAY,Battery electric,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,COOPOP,COOPOP Q1,Battery electric,1,8,14,4,5,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,E-MAX,E-MAX VSB,Battery electric,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,KSR MOTO,KSR MOTO MODEL MISSING,Battery electric,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,LEXMOTO,LEXMOTO CYPHER,Battery electric,1,13,18,23,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,LEXMOTO,LEXMOTO ZS,Battery electric,1,5,6,5,20,56,70,14,24,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,NIU,NIU N SERIES,Battery electric,1,6,10,14,12,13,10,3,5,13,21,10,15,20,12,5,14,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,OTHER AGRIC/CONSTRUCTIONAL,OTHER AGRIC/CONSTRUCTIONAL MODEL MISSING,Battery electric,1,2,3,1,0,1,0,0,2,2,1,2,3,2,1,0,1,0,1,2,1,0,0,0,0,0,0,0,2,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,2,0,1,3,0,0,6,1
+United Kingdom,Number,Motorcycles,PEUGEOT,PEUGEOT E-LUDIX,Battery electric,1,3,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,SAKURA,SAKURA JS2A,Battery electric,1,12,6,4,11,13,7,8,5,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,SINNIS,SINNIS E-CLASSIC,Battery electric,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,STROMER,STROMER ST,Battery electric,1,0,1,0,3,0,0,0,2,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,TORROT,TORROT MUVI,Battery electric,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,25,8,8,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,TROMOX,TROMOX MINO,Battery electric,1,1,3,4,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,ZERO,ZERO DS ZF,Battery electric,1,4,6,5,3,4,4,0,2,4,1,0,1,2,2,1,0,3,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,AGRIFAC,AGRIFAC CONDOR,Battery electric,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,ALFA ROMEO,ALFA ROMEO MODEL MISSING,Battery electric,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,ARTISAN,ARTISAN EV 1200,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,2,3,6,5,6,7,4,5,3,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,ARTISAN,ARTISAN JS,Battery electric,0,5,5,2,3,5,2,0,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,ASKOLL,ASKOLL ES SERIES,Battery electric,0,1,0,0,0,0,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,ASKOLL,ASKOLL NGS SERIES,Battery electric,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,BILIS,BILIS LX04,Battery electric,0,8,2,6,7,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,BMW,BMW C EVOLUTION,Battery electric,0,0,1,0,2,0,1,2,1,1,3,8,5,4,6,3,4,8,11,11,3,22,5,8,0,1,5,5,0,0,12,6,0,6,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,BULTACO,BULTACO BRINCO,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,CAKE,CAKE OSA,Battery electric,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,CAPRI,CAPRI MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,COLT,COLT MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,DAIFO,DAIFO MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+United Kingdom,Number,Motorcycles,DAYUN,DAYUN MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,1,12,10,10,10,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,DI BLASI,DI BLASI MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2,18,0,2,0,0
+United Kingdom,Number,Motorcycles,DOOHAN,DOOHAN MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,ECO NECO,ECO NECO E1,Battery electric,0,1,0,0,0,0,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,ECOOTER,ECOOTER E1,Battery electric,0,0,0,0,0,0,0,0,0,5,10,6,4,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,ECOOTER,ECOOTER E2,Battery electric,0,0,0,0,0,0,0,0,2,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,EFUN,EFUN MODEL MISSING,Battery electric,0,4,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,EFUN,EFUN PUMA,Battery electric,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,EFUN,EFUN TIGER,Battery electric,0,3,0,0,0,1,1,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,EGO,EGO MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,ELECTRIC MOTION,ELECTRIC MOTION E-TREK,Battery electric,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,ELECTRICARS,ELECTRICARS MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,ENERGICA,ENERGICA EGO,Battery electric,0,3,2,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,ENERGICA,ENERGICA EVA,Battery electric,0,2,9,5,4,3,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,ENERGICA,ENERGICA SS,Battery electric,0,1,4,0,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,ERIDER,ERIDER B2000,Battery electric,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3,1,1,1,5,13,7,5,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,4,4,3,2,0,4,6
+United Kingdom,Number,Motorcycles,ERIDER,ERIDER B3000,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,1,0,1,0,1,0,14
+United Kingdom,Number,Motorcycles,ERIDER,ERIDER MODEL MISSING,Battery electric,0,0,0,0,0,0,1,0,0,0,1,1,1,1,2,0,6,3,2,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,1
+United Kingdom,Number,Motorcycles,ERIDER,ERIDER T4000,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,0,1,0,0,5,4,4,4,2,3,5,1
+United Kingdom,Number,Motorcycles,ERIDER,ERIDER THUNDER,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2
+United Kingdom,Number,Motorcycles,EVT,EVT 4000,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+United Kingdom,Number,Motorcycles,EVT,EVT MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+United Kingdom,Number,Motorcycles,FIAT,FIAT MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+United Kingdom,Number,Motorcycles,GARELLI,GARELLI MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,GOODYEAR,GOODYEAR EGO,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,GOVECS,GOVECS CE,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,17,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,GOVECS,GOVECS S1.4,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,GOVECS,GOVECS S2.4,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,GOVECS,GOVECS S3.4,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,GOVECS,GOVECS SCHWALBE,Battery electric,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,GOVECS,GOVECS T2.4,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,GOVECS,GOVECS T3.4,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,HSUN,HSUN HS5D,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,HUASHA,HUASHA MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0
+United Kingdom,Number,Motorcycles,HYOSUNG,HYOSUNG GT 125,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+United Kingdom,Number,Motorcycles,INVACAR,INVACAR MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,0,0,0,0,0
+United Kingdom,Number,Motorcycles,IVECO-FORD,IVECO-FORD MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,JONWAY,JONWAY MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,2,0,2,3,1,3,1,5,1
+United Kingdom,Number,Motorcycles,KOLLTER,KOLLTER ES SERIES,Battery electric,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,KTM,KTM FREERIDE,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,KTM,KTM MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,KYMCO,KYMCO MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,KYMCO,KYMCO QUEEN,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,LIFAN,LIFAN LF 1200,Battery electric,0,0,3,0,2,1,4,3,1,7,1,9,7,15,17,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,LIFAN,LIFAN MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,9,2,8,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,LMX BIKES,LMX BIKES 64,Battery electric,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,LVNENG,LVNENG LN,Battery electric,0,0,0,1,1,3,7,11,3,6,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,LVNENG,LVNENG MODEL MISSING,Battery electric,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,LVNENG,LVNENG S5,Battery electric,0,0,1,0,0,1,4,1,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,MAKE MISSING,MAKE MISSING MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,5,11,2,2,0,2,7,1,0,0,1,1,2,1,0,0,0
+United Kingdom,Number,Motorcycles,MASAI,MASAI E-SUM,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,MERCURY,MERCURY MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,4,4,7,1,3,1,1,0
+United Kingdom,Number,Motorcycles,MG,MG MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,MONDIAL,MONDIAL HPS 125,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,MUTT,MUTT DESERT RACER,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,MUTT,MUTT MONGREL,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,NECO,NECO ABRUZZI,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,NECO,NECO ECONECO,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,NIU,NIU MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,NIU,NIU NGT,Battery electric,0,0,2,0,1,0,0,0,0,6,14,37,50,39,50,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,OTHER ELECTRIC,OTHER ELECTRIC MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,2,0,1,0,2,0,0,0,0,0,1,0,0,0
+United Kingdom,Number,Motorcycles,OTHER FRENCH,OTHER FRENCH MODEL MISSING,Battery electric,0,0,0,0,0,0,0,1,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,1,0,0,0,0,0,0,0,0,1,0,0,1,0
+United Kingdom,Number,Motorcycles,OTHER GERMAN,OTHER GERMAN MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+United Kingdom,Number,Motorcycles,OTHER JAPANESE/ASIAN,OTHER JAPANESE/ASIAN MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,OTHER US/AUST/CAN,OTHER US/AUST/CAN MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,OXYGEN,OXYGEN MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,OXYGEN,OXYGEN OX4,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+United Kingdom,Number,Motorcycles,PIAGGIO,PIAGGIO LIBERTY,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,QWIC,QWIC MODEL MISSING,Battery electric,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,RIEJU,RIEJU MIUS,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,RIEJU,RIEJU NUUK,Battery electric,0,0,0,0,0,1,1,0,2,2,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,SAITING,SAITING ST,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,3,1,1,4,4,2,2,2,4,1,1,4,12,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,SAKURA,SAKURA EV,Battery electric,0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,SCOMADI,SCOMADI MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,SCUTUM,SCUTUM S,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,0,7,0,0,2,91,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,SITCAR,SITCAR MODEL MISSING,Battery electric,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,SKYTEAM,SKYTEAM E-MAX,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,STROMER,STROMER MODEL MISSING,Battery electric,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,SUNRA,SUNRA MODEL MISSING,Battery electric,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,SUNRA,SUNRA RONIC,Battery electric,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,SUR-RON,SUR-RON MODEL MISSING,Battery electric,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,SUZUKI,SUZUKI MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,TALBOT,TALBOT MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,TAMORETTI,TAMORETTI MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,TIANJIN,TIANJIN MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+United Kingdom,Number,Motorcycles,TROMOX,TROMOX UKKO,Battery electric,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,UBCO,UBCO MODEL MISSING,Battery electric,0,1,1,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,UGBEST,UGBEST VAX,Battery electric,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,VECTRIX,VECTRIX MAXI SCOOTER,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,1,5
+United Kingdom,Number,Motorcycles,VECTRIX,VECTRIX MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,1,2,0,2,1,0,0,0,0,1,2,4,2,0,0,0,0
+United Kingdom,Number,Motorcycles,VELOCETTE,VELOCETTE MODEL MISSING,Battery electric,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,VICTORY,VICTORY MODEL MISSING,Battery electric,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,VMOTO,VMOTO 120 L,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,VMOTO,VMOTO 80 L,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,VMOTO,VMOTO SOCO TS,Battery electric,0,1,1,2,7,10,3,2,6,7,4,0,2,6,2,3,14,8,8,7,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,VMOTO,VMOTO VT 120,Battery electric,0,0,0,0,0,0,0,38,0,0,0,0,0,36,38,30,11,20,33,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,WK BIKES,WK BIKES E-COLT,Battery electric,0,0,0,0,2,0,0,0,0,1,7,5,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,WLIE,WLIE MODEL MISSING,Battery electric,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,X-BOW,X-BOW MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,XINLING,XINLING MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,3,0,0,0,0,0,0,0,1,0,1,11,1,8,13,2,9
+United Kingdom,Number,Motorcycles,YADEA,YADEA MODEL MISSING,Battery electric,0,3,0,0,0,26,20,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,YAMAHA,YAMAHA ED,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,0,2,1,1,1,4,2,11,14,7,24,28,5,5,5,10,4,5,41,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,YAMAHA,YAMAHA MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,12,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,YINHUA,YINHUA TDR,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,YIYING,YIYING MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,6,0,4,6,3,3
+United Kingdom,Number,Motorcycles,ZAP,ZAP MODEL MISSING,Battery electric,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,ZAP,ZAP PUMA,Battery electric,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,ZERO,ZERO MODEL MISSING,Battery electric,0,1,1,2,0,0,0,0,0,9,0,5,9,32,14,10,13,13,6,3,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,ZERO,ZERO SR ZF,Battery electric,0,5,5,0,0,2,1,0,1,2,0,0,2,0,2,1,1,2,1,1,1,3,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,ZERO,ZERO SRS ZF,Battery electric,0,12,13,7,11,10,10,4,8,24,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,ZHONGNENG,ZHONGNENG MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Motorcycles,ZNEN,ZNEN MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0
+United Kingdom,Number,Other vehicles,LEVC,LEVC TX,Range extended electric,409,500,369,440,462,355,193,93,162,257,57,467,647,590,523,372,548,318,258,73,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Other vehicles,OTHER ITALIAN,OTHER ITALIAN MODEL MISSING,Battery electric,37,18,17,8,12,10,6,5,5,2,1,2,3,1,3,1,1,0,0,1,3,0,0,0,0,3,1,0,2,2,0,4,0,2,0,3,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0
+United Kingdom,Number,Other vehicles,OTHER BRITISH,OTHER BRITISH MODEL MISSING,Battery electric,4,4,3,0,1,8,1,9,3,2,1,1,0,1,3,2,0,1,0,0,0,1,1,0,0,2,0,1,1,1,8,0,1,0,2,0,0,2,0,2,1,3,0,0,0,0,0,1,0,0,1,0
+United Kingdom,Number,Other vehicles,MAHINDRA,MAHINDRA MODEL MISSING,Battery electric,2,10,2,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Other vehicles,PIAGGIO,PIAGGIO APE,Battery electric,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Other vehicles,DOOHAN,DOOHAN MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Other vehicles,EGO,EGO MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Other vehicles,EVT,EVT MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Other vehicles,FIAT,FIAT MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+United Kingdom,Number,Other vehicles,GOODYEAR,GOODYEAR EGO,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Other vehicles,LIGIER,LIGIER PULSE,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Other vehicles,MERCEDES,MERCEDES VITO,Battery electric,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Other vehicles,NISSAN,NISSAN NV200,Battery electric,0,0,0,0,0,18,36,40,11,37,2,18,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Other vehicles,OTHER AGRIC/CONSTRUCTIONAL,OTHER AGRIC/CONSTRUCTIONAL MODEL MISSING,Battery electric,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Other vehicles,POLARIS,POLARIS MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Other vehicles,RENAULT,RENAULT MASTER,Battery electric,0,0,4,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Other vehicles,RENAULT,RENAULT ZOE,Battery electric,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Other vehicles,TEREX,TEREX MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Kingdom,Number,Other vehicles,TORO,TORO MODEL MISSING,Battery electric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
